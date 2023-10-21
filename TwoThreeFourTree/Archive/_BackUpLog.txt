@@ -1,0 +1,15 @@
+BackUp1
+	The original tested file=
+BackUp2
+	doesCurrentNodeHaveValue moved to item Class
+	getNextNode moved to item Class
+	assignChild (Broken) moved to item Class
+	removeParent moved to item Class
+BackUp3
+	Removed assignChild
+BackUp4
+	Remove Value to Leaf moved to item Class
+	Add Value toLeaf moved to item Class
+BackUp5
+	Simply Rotation
+	Simply Merging

@@ -1,0 +1,100 @@
+1:::Teacher Teacher:::AKB48
+2:::Hatsukoi:::Hikaru Utada
+3:::Crazy Rays:::V6
+4:::Cinderella Girl:::King &amp; Prince
+5:::Lemon:::Kenshi Yonezu
+6:::Fakeshow:::Da-iCE
+7:::Pride:::Yu Takahashi
+8:::Wake Me Up:::TWICE
+9:::Loser:::Kenshi Yonezu
+10:::Fake Love:::BTS
+11:::GANG 2:::Gang Parade
+12:::Syncronicity:::Nogizaka 46
+13:::Todokanai Kara:::Ken Hirai
+14:::Drive:::WANIMA
+15:::What Is Love?:::TWICE
+16:::Koen Doori:::Yuzu
+17:::Awakening:::EXILE
+18:::Don&#039;t Leave Me:::BTS
+19:::Front Memory:::Emiko Suzuki X Seiji Kameda
+20:::Katarushisuto:::RADWIMPS
+21:::Uchiage Hanabi:::Daoko X Kehshi Yonezu
+22:::Rainbow:::Sandaime J Soul Brothers from EXILE TRIBE
+23:::New World:::Yuma Uchida
+24:::Echo:::Dean Fujioka
+25:::Chain:::NCT 127
+26:::Good Evening:::SHINee
+27:::Shape Of You:::Ed Sheeran
+28:::Call Call Call!:::SEVENTEEN
+29:::Melty Fantasia:::EScape
+30:::Natsushippu:::ARASHI
+31:::Doraemon:::Gen Hoshino
+32:::No Doubt:::Official HIGE DANdism
+33:::Blue:::NEWS
+34:::Sign:::Jejung
+35:::Shiranaindesho?:::Ken Hirai
+36:::Sayonara Elegy:::Masaki Suda
+37:::No Tears Left To Cry:::Ariana Grande
+38:::Tomoshibi No Manimani:::Nao Toyama
+39:::Tatakau Senshi Tachi He Ai Wo Komete:::Southern All Stars
+40:::Peace Sign:::Kenshi Yonezu
+41:::Otomodachi Film:::Masayoshi Ooishi
+42:::Love Scenario:::iKON
+43:::Fiction:::sumika
+44:::Glass Wo Ware!:::Keyakizaka46
+45:::Zero:::Masaharu Fukuyama
+46:::Hanabi:::Mr.Children
+47:::Kono Michi Wo:::Kazumasa Oda
+48:::Anpanman:::BTS
+49:::Odd Future:::UVERworld
+50:::TT:::TWICE
+51:::Koi To Ai:::Sandaime J Soul Brothers from EXILE TRIBE
+52:::Airplane, Pt. 2:::BTS
+53:::Teokure Caution:::=LOVE
+54:::I Love You:::Kana Nishino
+55:::Revival:::Sukima Switch
+56:::Eine Kleine:::Kenshi Yonezu
+57:::Watashi No Yoake:::SHISHAMO
+58:::Nanatsuiro REALiZE:::IDOLiSH7
+59:::DNA:::BTS
+60:::Bboom Bboom:::MOMOLAND
+61:::Change:::ONE OK ROCK
+62:::This Is Me:::Keala Settle &amp; The Greatest Showman Ensemble
+63:::Haiiro To Ao (+ Masaki Suda):::Kenshi Yonezu
+64:::Rise:::Jonas Blue Featuring Jack &amp; Jack
+65:::Rain:::SEKAI NO OWARI
+66:::Candy Pop:::TWICE
+67:::Likey:::TWICE
+68:::Straw:::Aiko
+69:::Sakana No Hone Tori No Hane:::cero
+70:::Kabuto:::[Alexandros]
+71:::Hypnosismic (Division Battle Anthem):::Division All Stars
+72:::Change!:::Kana Adachi
+73:::Kiss You Back:::Nulbarich
+74:::Marunouchi Sadistic:::Hikaru Utada &amp; Nariaki Obukuro
+75:::Daisuki De Daikirai:::CODE-V
+76:::Sekai Ha Itsumo Yoake Mae:::STARDUST REVUE
+77:::Mabataki:::back number
+78:::Wherever You Are:::ONE OK ROCK
+79:::My Boo:::Shota Shimizu
+80:::Show Time:::E-Girls
+81:::U.S.A.:::DA PUMP
+82:::Unicorn:::Hiroyuki Sawano
+83:::Faded:::Alan Walker
+84:::Nagaku Mijikai Matsuri:::Ringo Sheena
+85:::Play A Love Song:::Hikaru Utada
+86:::Ai Wo Tsutaetai Datoka:::Aimyong
+87:::Heart Shaker:::TWICE
+88:::Can You See Me:::Mr. Big
+89:::Shin Takarajima:::Sakanaction
+90:::Kitai Shiteinai Jibun:::Keyakizaka46
+91:::Roki:::MikitoP
+92:::The Middle:::Zedd, Maren Morris &amp; Grey
+93:::22:::Lucky Tapes
+94:::Maybe:::Sougo Osaka (Atsushi Abe)
+95:::Mada Daremo Shiranai Ashita He:::Purely Monster
+96:::Silent Majority:::Keyakizaka46
+97:::Koi:::Gen Hoshino
+98:::Samayou Hibi To Fanfare:::KANA-BOON
+99:::Volt-age:::Suchmos
+100:::Koufukuron:::Rekishi

@@ -1,0 +1,100 @@
+1:::EXPOSE:::Kat-Tun
+2:::shortcake:::Yuki Kashiwagi
+3:::MADE OF GOLD:::DREAMS COME TRUE featuring DABADA
+4:::Choco No Dorei:::SKE48
+5:::Spectrum:::Zedd Featuring Matthew Koma
+6:::Sakura No Koe:::moto
+7:::Music:::Sakanaction
+8:::Namida Wo Buttobase!!:::Keisuke Kuwata
+9:::TRY AGAIN:::Mai Kuraki
+10:::Call Me Maybe:::Carly Rae Jepsen
+11:::Suit &amp; Tie:::Justin Timberlake Featuring JAY Z
+12:::Kono Machi:::Z-ute
+13:::Voice:::AI
+14:::W:Wonder tale:::Yukari Tamura
+15:::LOVER:::M-flo
+16:::Small World:::Fuji Fabric
+17:::RanTiKi:::Yukino
+18:::Die Young:::Ke$ha
+19:::Tanjyoubi Niwa Masshiro Na Yuri Wo:::Masaharu Fukuyama
+20:::kimini 100percent:::Kyary Pamyu Pamyu
+21:::Nuclear:::Destiny&#039;s Child
+22:::We Are Never Ever Getting Back Together:::Taylor Swift
+23:::Irotoridori:::Yuzu
+24:::BE MY VALENTINE:::Tommy february6
+25:::REASON:::Yuzu
+26:::We Are Young:::fun. Featuring Janelle Monae
+27:::Live While We&#039;re Young:::One Direction
+28:::Kono Takanari Wo Nantoyobu:::Wasureranneeyo
+29:::Hana:::Sonar Pocket
+30:::Shooting Star:::Cream
+31:::sweet spider:::Indigo la End
+32:::Besame Mucho:::Daisuke Kawakami
+33:::Volare:::Chico &amp; The Gypsies feat.Shigeru Matsuzaki
+34:::ANIMAL:::GENERATIONS from EXILE TRIBE
+35:::Run With..:::RIP SLYME
+36:::Do It Like That:::Ricki-Lee
+37:::Dear Heaven:::Sayaka Shionoya
+38:::Kitto Seisyun Ga Kikoeru:::u&#039;s
+39:::Nando Sayonara Wo Kurikaeshitara Bokura Ha Tsuyokunarerunoka?:::CODE-V
+40:::Valentine Fighter:::Daikoku Danji
+41:::BLOODY STREAM:::Coda
+42:::Fuufu Tsukushinbo:::Yuki Seguchi
+43:::Chocolate Disco:::Perfume
+44:::Mistake!:::SMAP
+45:::Tasogare Diary:::Mariya Takeuchi
+46:::Furisodation:::Kyary Pamyu Pamyu
+47:::Isseno, Se!:::Tokyo Karan Koron
+48:::PERFECT BLUE:::Base Ball Bear
+49:::Koori No Hana:::Gospellers
+50:::Be My Friend:::Rinjinbu
+51:::Kiss You:::One Direction
+52:::TAKARABUNE:::Kome Kome CLUB
+53:::colorful:::9Nine
+54:::Ain&#039;t Messin &#039;round:::Gary Clark Jr.
+55:::Try Again:::GILLE
+56:::Because We Can:::Bon Jovi
+57:::Locked Out Of Heaven:::Bruno Mars
+58:::Thiisana Koi No Uta:::MONGOL800
+59:::Kyoukaisen:::Sayoko Izumi
+60:::Yukiyanagi:::Tesuya Matsumoto
+61:::Satisfaction:::SCANDAL
+62:::Shining Star LOVE Letter:::Yuka Iguchi
+63:::Yuki Wari No Hana:::Daisuke Kitagawa
+64:::HokoriDakaku Ikiyou:::Akiko Yano
+65:::Memeshikute:::Golden Bomber
+66:::Super Flare:::The Mirraz
+67:::Arashigaoka:::Tomoyasu Hotei
+68:::Tashikana Uta:::Negoto
+69:::Goodbye Isaac:::Motohiro Hata
+70:::Somebody That I Used To Know:::Gotye Featuring Kimbra
+71:::Hoyoroi Sakaba:::Natsuko Godai
+72:::Deeper Deeper:::ONE OK ROCK
+73:::I WAS IN LOVE:::FPM feat.Takeshi Hosomi(the HIATUS)
+74:::Lonely Boy:::The Black Keys
+75:::&quot;Love is Everywhere&quot;:::Moumoon
+76:::Ho Hey:::The Lumineers
+77:::Slide &#039;n&#039; Step:::KEITA
+78:::Scream &amp; Shout:::will.i.am &amp; Britney Spears
+79:::starrrrrrr:::[Champagne] feat.GEROCK
+80:::Schedar:::Junk Fujiyama
+81:::Trouble:::Jose James
+82:::Hatsukoi:::Motohiro Hata
+83:::Saigo No Kwa:::Jang Yoon Jeong
+84:::Help me!!:::Morning Musume
+85:::What Makes You Beautiful:::One Direction
+86:::Bokura No Tsubasa:::Rinjinbu
+87:::handle me right:::Yoshikuni Dohchin
+88:::Anokoro Ni.. Once again:::jyA-Me
+89:::Not All About The Money:::Timati &amp; La La Land Featuring Timbaland &amp; Grooya
+90:::Haru Yo,Koi:::Yumi Matsutoya
+91:::Sakura Mitsutsuki:::SPYAIR
+92:::Mahoroba:::illion
+93:::Titanium:::David Guetta Featuring Sia
+94:::Yuki No Oto:::GReeeeN
+95:::TOxxxIC:::Aya Hirano
+96:::Heartbreaker:::Alice Russell
+97:::I Knew You Were Trouble.:::Taylor Swift
+98:::Thinkin Bout You:::Frank Ocean
+99:::Ke-Sera-Sera:::Tomohisa Yamashita
+100:::Where Are We Now?:::David Bowie

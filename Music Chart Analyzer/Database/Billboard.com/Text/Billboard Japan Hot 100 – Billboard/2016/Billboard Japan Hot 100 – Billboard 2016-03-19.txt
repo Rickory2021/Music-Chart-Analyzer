@@ -1,0 +1,100 @@
+1:::Unlock:::Kat-Tun
+2:::Moment Ring:::M`S
+3:::Fukkatsu Love:::ARASHI
+4:::Asu E No Tegami:::Aoi Teshima
+5:::Yell:::Bullet-Train
+6:::Minna Ga Minna Eiyuu:::AI
+7:::Sekai Ni Hitotsu Dake No Hana:::SMAP
+8:::Bang Bang Bang:::BIGBANG
+9:::Wherever You Are:::ONE OK ROCK
+10:::Someday Over The Rainbow:::Afilia Saga
+11:::Perfect Human:::RADIO FISH
+12:::Fly High!!:::BURNOUT SYNDROMES
+13:::Sun:::Gen Hoshino
+14:::No More:::EXILE ATSUSHI + AI
+15:::Sumire:::Motohiro Hata
+16:::365 Nichi No Kami Hikouki:::AKB48
+17:::Torisetsu:::Kana Nishino
+18:::Uminokoe:::Taro Urashima (Kenta Kiritani)
+19:::Know Know Know:::DOES
+20:::Quartetto:::NEWS
+21:::Fantastic Baby:::BIGBANG
+22:::Kyoumei Sekai No Ontology:::Asuka Ninomiya (Cv Shiki Aoki)
+23:::Harujion Ga Saku Koro:::Nogizaka 46
+24:::Sora He:::Masayoshi Yamasaki
+25:::Irodori:::Kiryu
+26:::Radio Happy:::Yui Ohtsuki (Cv Nanami Yamashita)
+27:::Yume:::GReeeeN
+28:::Zenryoku Batankyu:::AOP
+29:::Koi No Hamburg:::Kyoko Igarashi (Cv Atsumi Tanezaki)
+30:::lilac time:::Yumi Aiba (Cv Juri Kimura)
+31:::Mirai:::Kobukuro
+32:::R.Y.U.S.E.I:::Sandaime J Soul Brothers from EXILE TRIBE
+33:::Sore Ha Chiisana Hikari No Youna:::Sayuri
+34:::Himawari No Yakusoku:::Motohiro Hata
+35:::Michi:::EXILE
+36:::Koiiro Energy:::Yuka Nakano (Cv Shino Shimoji)
+37:::Ageha:::GENERATIONS from EXILE TRIBE
+38:::Dance With Me Now!:::E-Girls
+39:::Mad Shrimps:::Misokkasu
+40:::Accentier:::Eir Aoi
+41:::Saraba Namida:::Ketsumeishi
+42:::The Sound:::The 1975
+43:::Sailor Fuku To Kikanjuu:::Kanna Hashimoto
+44:::Doubutsu Sentai Juuouja Shudaika:::Hideaki Takatori (Project.R)
+45:::Star tto Shichauze Haru Dashi Ne:::Dempagumi. Inc
+46:::Hello To The World:::Leo Ieiri
+47:::Ame To Namida To Otome To Taiyaki:::Otomeshinto
+48:::Cherry Bomb:::Silent Siren
+49:::Sangatsu Kokonoka:::Remioromen
+50:::Ki-mi-ni-mu-chu:::EXILE
+51:::Work:::Rihanna Featuring Drake
+52:::Dear Bride:::BTOB
+53:::See You Again:::Wiz Khalifa Featuring Charlie Puth
+54:::Monster World:::HOWL BE QUIET
+55:::Acchi Muite:::Swimy
+56:::Kizuna.:::Hazzie
+57:::Flash:::Perfume
+58:::Yoru Ha Nemurerukai?:::flumpool
+59:::Motto:::Aiko
+60:::Sorry:::Justin Bieber
+61:::Shin Takarajima:::Sakanaction
+62:::Fragile:::Tokio
+63:::Kimi Ha Melody:::AKB48
+64:::Always Coming Back:::ONE OK ROCK
+65:::Butterfly:::BUMP OF CHICKEN
+66:::Hanamaru Pippi Ha Yoiko Dake:::AOP
+67:::Love Me Do:::SCANDAL
+68:::Sugar  Song To Bitter Step:::UNISON SQUARE GARDEN
+69:::Rainy Room:::GENERATIONS from EXILE TRIBE
+70:::Sakanaide:::WHITE JAM
+71:::What Do You Mean?:::Justin Bieber
+72:::Koi Oto To Amazora:::AAA
+73:::Uptown Funk!:::Mark Ronson Featuring Bruno Mars
+74:::Senbonzakura:::White Flame Feat. Miku Hatsune
+75:::Subliminal Diet:::Charisma.com
+76:::Aishiteru No Ni.Aisenai:::AAA
+77:::The Beginning:::ONE OK ROCK
+78:::Thousand Years Girl -Tin Ton De Schon-:::Mirai Skirt
+79:::RPG:::SEKAI NO OWARI
+80:::Best Friend:::Kiroro
+81:::Gangnam Style:::PSY
+82:::Kuchibiru Ni Be My Baby:::AKB48
+83:::366 Nichi:::Shota Shimizu feat.Izumi Nakasone(HY)
+84:::Sayounara He Sayonara!:::M`S
+85:::Kanade:::Sukima Switch
+86:::Take It Easy:::RIP SLYME
+87:::RE: RE::::ASIAN KUNG-FU GENERATION
+88:::Summer Madness:::Sandaime J Soul Brothers from EXILE TRIBE
+89:::Memories:::MAN WITH A MISSION
+90:::Kiseki:::GReeeeN
+91:::Hoshi Ga Kagayaku Yoru:::Kira
+92:::Suki:::Kana Nishino
+93:::Alive:::Sia
+94:::Tokyo:::Ame_No_Parade
+95:::Love Yourself:::Justin Bieber
+96:::Tragedy:::Kat-Tun
+97:::Shake It Off:::Taylor Swift
+98:::Kuroi Shizuku:::Superfly
+99:::Karate:::BABYMETAL
+100:::Happiness:::AI

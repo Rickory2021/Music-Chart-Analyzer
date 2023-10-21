@@ -1,0 +1,100 @@
+1:::My Swagger:::GOT7
+2:::Kokoro:::Kobukuro
+3:::Adrenaline!!!:::TrySail
+4:::Senaka Goshi No Chance:::Kame To Yama P
+5:::Etude Ha Ikkyoku Dake:::Rin Shibuya (Ayaka Fukuhara),Haruna Kamijo (Mina Nagashima),...
+6:::Destiny:::Che&#039;Nelle
+7:::Charm:::WANIMA
+8:::Signal:::TWICE
+9:::Pa:::Kana Nishino
+10:::I Need Your Love:::Beverly
+11:::Koi:::Gen Hoshino
+12:::Skydiving:::Nogizaka 46
+13:::Haru Hana:::Ranmaru Kurosaki (Tatsuhisa Suzuki ) Ai Mikaze (Shouta Aoi)
+14:::Love Song For You:::The Alfee
+15:::Dirty Work:::Austin Mahone
+16:::What Do You Mean?:::Justin Bieber
+17:::Non Fiction:::Ken Hirai
+18:::Shape Of You:::Ed Sheeran
+19:::Blow Out:::Konomi Suzuki
+20:::Sky`s The Limit:::Boku No Lyric No Bouyomi
+21:::Togetsukyou  (Kimi Omofu):::Mai Kuraki
+22:::CQCQ:::Kamisama Bokuwa Kizuite Shimatta
+23:::Akane:::Silent Siren
+24:::Fukyouwaon:::Keyakizaka46
+25:::Good Life:::G-Eazy &amp; Kehlani
+26:::Shiny:::miwa
+27:::Influencer:::Nogizaka 46
+28:::It&#039;s Who We Are:::Nulbarich
+29:::High School Boo!:::XOX
+30:::Beauty And The Beast:::Ariana Grande &amp; John Legend
+31:::Tetote To Tentoten With Whiteeeen:::GReeeeN
+32:::Nanairo:::Shiritsu Ebisu Chugaku
+33:::Bling Bling:::iKON
+34:::Hitorigoto:::ClariS
+35:::Joshi Modoki:::JY
+36:::Ribbon:::BUMP OF CHICKEN
+37:::Yattemiyou:::WANIMA
+38:::Imakoko:::Nao Toyama
+39:::Saihate Aini:::RADWIMPS
+40:::Ito:::Creephyp
+41:::TT:::TWICE
+42:::Silent Majority:::Keyakizaka46
+43:::Shinzou wo Sasageyo!:::Linked Horizon
+44:::Something Just Like This:::The Chainsmokers &amp; Coldplay
+45:::See You Again:::Wiz Khalifa Featuring Charlie Puth
+46:::I&#039;m The One:::DJ Khaled Featuring Justin Bieber, Quavo, Chance The Rapper &amp; Lil Wayne
+47:::Zenzenzense:::RADWIMPS
+48:::Chi.Ase.Namida:::BTS
+49:::Stay:::Zedd &amp; Alessia Cara
+50:::Tomoni:::WANIMA
+51:::Girl:::Motohiro Hata
+52:::Stay Tune:::Suchmos
+53:::Closer:::The Chainsmokers Featuring Halsey
+54:::B-DAY:::iKON
+55:::Koi?De Ai?De Boukun Desu!:::Wake Up,Girls!
+56:::Youkoso Japari Park He:::Doubutsu Biscuits * PPP
+57:::Knock beautiful smile:::access
+58:::Lullaby:::WANIMA
+59:::Brain Washing:::RADWIMPS
+60:::Rosanna:::THE YELLOW MONKEY
+61:::Bou Ningen:::RADWIMPS
+62:::Don&#039;t:::NakamuraEmi
+63:::Wonder Drive:::ORESAMA
+64:::Killer Kiss:::Reiji Kotobuki (Showtaro Morikubo) Camus (Tomoaki Maeno)
+65:::Re-illusion:::Yuka Iguchi
+66:::Koi Suru Hitomi:::MACO
+67:::I`ll Be There:::ARASHI
+68:::That&#039;s What I Like:::Bruno Mars
+69:::Precious You:::Sistine Fibel (Akane Fujita), Rumia Tingel( Yume Miyamoto),Ryieru Rayford (Ari Ozawa)
+70:::Beauty And The Beast:::Takahiro Nishizima &amp; Misako Uno
+71:::Bakibaki:::Babyraids Japan
+72:::Sign Of The Times:::Harry Styles
+73:::Futari Saison:::Keyakizaka46
+74:::Otousan:::Hanawa
+75:::Guren No Yumiya:::Linked Horizon
+76:::Sorry:::Justin Bieber
+77:::Little Devil Parade:::LiSA
+78:::Knock Knock:::TWICE
+79:::Getsuyoubi Sensou:::Kayoko Yoshizawa
+80:::Call Me Maybe:::Carly Rae Jepsen
+81:::PPAP (Pen-Pineapple-Apple-Pen):::PIKOTARO
+82:::Katoku:::Rekishi
+83:::Hey Ma:::Pitbull &amp; J Balvin Featuring Camila Cabello
+84:::Boombayah:::BLACKPINK
+85:::Just You And I:::Namie Amuro
+86:::Uptown Funk!:::Mark Ronson Featuring Bruno Mars
+87:::Wherever You Are:::ONE OK ROCK
+88:::Orion:::Kenshi Yonezu
+89:::Sun:::Gen Hoshino
+90:::Galway Girl:::Ed Sheeran
+91:::Ashita Mo:::SHISHAMO
+92:::Unicorn:::Hiroyuki Sawano
+93:::From:::TRUE
+94:::Moon Jellyfish:::Flower
+95:::Symphony:::Clean Bandit Featuring Zara Larsson
+96:::Die Set Down:::Taro Kobayashi
+97:::My Valentine:::5tion
+98:::Kimi No Uta:::Rei Yasuda
+99:::Bon Appetit:::Katy Perry Featuring Migos
+100:::Yuugure No Tori:::Shinsei Kamattechan

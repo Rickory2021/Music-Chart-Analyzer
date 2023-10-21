@@ -1,0 +1,100 @@
+1:::Boku Ha Inai:::NMB48
+2:::Tomoni:::WANIMA
+3:::Hadashi De Summer:::Nogizaka 46
+4:::Pikachu No Uta:::Pikachu(Ikue Otani)
+5:::Summer Time!:::Apink
+6:::Hero:::Namie Amuro
+7:::Kimetayo Hand In Hand:::Aqours
+8:::Deathtopia:::GLAY
+9:::Good Luck:::AOA
+10:::Zenzenzense:::RADWIMPS
+11:::Neo Zipang (Utage):::Dance Earth Party Feat. Banvox + Drum Tao
+12:::Post Ni Koe Wo Nageirete:::YUKI
+13:::Kuroi Neko No Uta:::back number
+14:::Have A Nice Day:::Kana Nishino
+15:::E.G. summer RIDER:::E-Girls
+16:::Dancin`Derella:::Naughtyboys
+17:::Sagigrapher:::Kyuso Nekokami
+18:::Torisetsu:::Kana Nishino
+19:::Re:Call:::I Ris
+20:::Tsubasa:::Eir Aoi
+21:::Overflows (Kotoba Ni Dekinakute):::Naoto Inti Raymi
+22:::Jinsei Ha Subarashii:::Johnny&#039;s WEST
+23:::Suki Na Hito Ga Iru Koto:::JY
+24:::Dip-Bap:::The Oral Cigarettes
+25:::Wake We Up:::HOWL BE QUIET
+26:::Arigato:::SMAP
+27:::Koi Suru Zukei (Cubic Futurismo):::Sumire Uesaka
+28:::Silent Majority:::Keyakizaka46
+29:::We Are Go:::UVERworld
+30:::Aozora Jumping Heart:::Aqours
+31:::Mahoutte Itte Iikana?:::Ken Hirai
+32:::Uminokoe:::Taro Urashima (Kenta Kiritani)
+33:::Mada Kimi Ha Shiranai MY PRETTIEST GIRL:::Nissy (Takahiro Nishijima)
+34:::Ultra Chou Miracle Super Very Power Ball:::Team Syachihoko
+35:::Samenai:::Spitz
+36:::Yume Wo Ou Tabibito:::Elephant Kashimashi
+37:::Can&#039;t Stop The Feeling!:::Justin Timberlake
+38:::Happening:::Nissy (Takahiro Nishijima)
+39:::Sayonara Hitori:::TAEMIN
+40:::Soup:::Sakura Fujiwara
+41:::Beautiful Days:::GReeeeN
+42:::Let It Fly:::Leola
+43:::Yeah!! Yeah!! Yeah!!:::EXILE THE SECOND
+44:::1461 Nichi:::Masaharu Fukuyama
+45:::Kamiiroawase:::Binaria
+46:::Yasashisa De Afureru Youni:::Flower
+47:::Ikari Wo Kureyo:::GLIM SPANKY
+48:::Kodou*Ambitious:::B-PROJECT
+49:::Sekai Ni Hitotsu Dake No Hana:::SMAP
+50:::Chase:::Batta
+51:::Koi Wo Shiranai Kimi He:::NEWS
+52:::Tsumi To Natsu:::Kanjani 8
+53:::Himawari No Yakusoku:::Motohiro Hata
+54:::Ima Shika Nai (Now Or Never):::Tsugumi
+55:::Tomo Yo - Kono Saki Mo Zutto...:::Ketsumeishi
+56:::Now Loading!!!!:::Fourfolium
+57:::Talk To Me:::Kandace Springs
+58:::Fantastic Baby:::BIGBANG
+59:::Namida:::GENERATIONS from EXILE TRIBE
+60:::Take Me Out:::SCANDAL
+61:::Yoshiko San:::Keisuke Kuwata
+62:::Flash:::Perfume
+63:::Love Trip:::AKB48
+64:::Have Dreams!:::May J.
+65:::Wataridori:::[Alexandros]
+66:::One Sided Love:::Unione
+67:::Sakura Skip:::Fourfolium
+68:::Rx Overdrive:::Crossfaith
+69:::New:::AAA
+70:::Starting Now!:::Nana Mizuki
+71:::Lotus Pain:::Mashiro Ayano
+72:::Work From Home:::Fifth Harmony Featuring Ty Dolla $ign
+73:::Aria:::BUMP OF CHICKEN
+74:::Koi Oto To Amazora:::Fourfolium
+75:::Nijiiro:::Ayaka
+76:::Color Variation:::Ketsumeishi
+77:::The Great JourneyR:::Kirinji Feat. RHYMESTE
+78:::Dreamland.:::Hazzie Feat. Red Rice (From Shonannokaze), Cico
+79:::R.Y.U.S.E.I:::Sandaime J Soul Brothers from EXILE TRIBE
+80:::Mugen Road:::Sandaime J Soul Brothers from EXILE TRIBE
+81:::Joy-Ride -Kanki No Drive-:::EXILE
+82:::Bye Bye:::Nicole Fujita
+83:::Cerulean Squash:::Yuuka Aisaka
+84:::Antenna Rust:::10-FEET
+85:::Daisuki Dattara Daijoubu!:::Chika Takami.Riko Sakurauchi.You Watanabe
+86:::The Idolm@Ster Cinderella Girls Starlight Master 4:::(Game Music)
+87:::Lay You Down Easy:::MAGIC! Featuring Sean Paul
+88:::Sun:::Gen Hoshino
+89:::Anata No Suki Na Tokoro:::Kana Nishino
+90:::Bara To Taiyou:::KinKi Kids
+91:::Mint:::Suchmos
+92:::Miagetegoran Yoru No Hoshi Wo -Bokura No Uta-:::Yuzu
+93:::Senbonzakura:::White Flame Feat. Miku Hatsune
+94:::Hopeful:::Bars And Melody
+95:::74 Oku Bun No 1 No Kimi He:::HKT48
+96:::Dramatic Surf Coaster:::Hiroyuki Yoshino
+97:::Wherever You Are:::ONE OK ROCK
+98:::All In My Head (Flex):::Fifth Harmony Featuring Fetty Wap
+99:::Zettai Kibou Birthday:::Nagito Komaeda (Cv.Megumi Ogata)
+100:::Pink Champagne:::E-Girls

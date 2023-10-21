@@ -1,0 +1,26 @@
+Billboard.com
+Version 1.0.0
+	6/5/2023
+	Release of the Chart Analyzer for Billboard.com through the console
+		Version 1.0.1
+			6/5/2023
+			- Bug Fix where Spreadsheets showed the same dates twice
+			- Bug Fix where Opening Date by Year would skip YEAR-01-01
+		Version 1.0.2
+			6/6/2023
+			- Bug Fix where Toggling Artist Print Flag did not work
+		Version 1.0.3
+			6/8/2023
+			- Added Feature Where ChartType Accept both forms of Dashes (Example: �-)
+			- Bug Fix where BinarySearch Insertion Index was incorrect
+			- Bug Fix where Song Names were limited to 30 Characters
+			- Bug Fix where Artist Names were limited to 30 Characters
+		Version 1.0.4
+			6/9/2023
+			- Added Feature where IDE_Runner is able to run different executables multiple times
+Version 1.1.0
+	6/10/2023
+	Added Text Convertor Feature
+		Verssion 1.1.1
+			6/12/2023
+			-Change Project Settings to view and manage in UTF-8 

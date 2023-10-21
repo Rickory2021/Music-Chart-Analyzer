@@ -1,0 +1,100 @@
+1:::MONSTERS:::The MONSTERS
+2:::Kamihikoki:::Kobukuro
+3:::Shiranai:::Gen Hoshino
+4:::Saraba, Itoshiki Kanashimi Tachiyo:::Momoiro Clover Z
+5:::Girl On Fire:::Alicia Keys
+6:::Marshmallow day:::Mr.Children
+7:::Sakuranagashi:::Hikaru Utada
+8:::Kimi To Dance Dance Dance:::Boyfriend
+9:::Hikaru Mono Tachi:::Mayu Watanabe
+10:::Shiawase Ni Narutameni:::Naoto Inti Raymi
+11:::Polar Star:::FTISLAND
+12:::Overfly:::Runa Haruna
+13:::Table Dancer:::Keshia Chante
+14:::We Are Never Ever Getting Back Together:::Taylor Swift
+15:::Aoi Haru:::back number
+16:::Setsugetsuka:::Shonan No Kaze
+17:::BRAVE IT OUT:::GENERATIONS
+18:::100Nen Hatsukoi:::Cyclamen
+19:::Sayonara Janai:::Funky Monkey Babys
+20:::Skyfall:::Adele
+21:::FLOWER POWER:::Shojo Jidai
+22:::Akaimi Hajiketa Koizora No Shita:::LGMonkees
+23:::Live While We&#039;re Young:::One Direction
+24:::Don&#039;t Stop The Party:::Pitbull Featuring TJR
+25:::Samuine:::S/mileage
+26:::Diamonds:::Rihanna
+27:::Bring me up!:::Toshinobu Kubota
+28:::Hatsukoi:::Mika Nakashima
+29:::Konya Wa Boggie Back:::Miliyah Kato Feat.Shota Shimizu &amp; SHUN
+30:::Deus ex machina:::Nightmare
+31:::Koibito Ga Santa Claus:::Flower
+32:::V.I.P:::Sid
+33:::Powder Snow&quot;Eien Ni Owaranai Fuyu&quot;:::Sandaime J Soul Brothers
+34:::Locked Out Of Heaven:::Bruno Mars
+35:::Happiness:::AI
+36:::We Laugh We Dance We Cry:::Rasmus Faber Featuring Linus Norda
+37:::Hoshizora Guitar:::Masayoshi Yamasaki
+38:::Die Young:::Ke$ha
+39:::Yobinikitayo:::Chikyu Sankyodai
+40:::Scramble:::Sayoko Izumi
+41:::Your Body:::Christina Aguilera
+42:::Stray Heart:::Green Day
+43:::Right Now:::Rihanna Featuring David Guetta
+44:::Beautiful World:::LOVE PSYCHEDELICO
+45:::Fashion Monster:::Kyary Pamyu Pamyu
+46:::INNOCENCE:::Eir Aoi
+47:::Jo Jo &quot;Sonochi No Unmei&quot;:::Tominaga TOMMY Hiroaki
+48:::366 Nichi:::Shota Shimizu feat.Izumi Nakasone(HY)
+49:::Fantastic Radio:::Huwie Ishizaki
+50:::Lolita:::The Dresscodes
+51:::Spirit Inspiration:::Nothing&#039;s Carved In Stone
+52:::Memeshikute:::Golden Bomber
+53:::Doom And Gloom:::The Rolling Stones
+54:::UZA:::AKB48
+55:::Start:::Hideki
+56:::AinoBeat:::Kis-My-Ft2
+57:::Call Me Maybe:::Carly Rae Jepsen
+58:::Hikari He:::miwa
+59:::Reverb:::Yun chi
+60:::Shiretoko Koibumi:::Mai Mizuki
+61:::Sekai Wa Kyoshitu Dakejanai:::Risa Yoshiki
+62:::Always:::Kana Nishino
+63:::JUSTICE[from]GUILTY:::GLAY
+64:::Jotoku:::Mr.Children
+65:::Momoiro No Kirin:::Pirokalpin
+66:::End roll:::androp
+67:::Bad Reputation:::Avril Lavigne
+68:::again:::Shunsuke Kiyokiba
+69:::Someday:::AJI
+70:::Answer:::flumpool
+71:::Hikari:::Ikumi Kumagai
+72:::Imaai:::LGMonkees
+73:::ONE:::rieco
+74:::Sweet Pop!:::Silent Siren
+75:::Anta:::Tiina Kariina
+76:::A Christmas Song:::MONKEY MAJIK + Kazumasa Oda
+77:::WARRIORS:::Kyosuke Himuro
+78:::Kiyoshi No Merry X&#039;mas:::Hikawa Kiyoshi
+79:::Guns for Hands:::twenty one pilots
+80:::Aishite Waratte Ureshikute Namidashite:::Dreams Come True
+81:::Jinsei Hareruya &quot;Oukaranbu&quot;:::Jero
+82:::Down Town Christmas (Reprise):::Kyoko with Motohiro Hata &amp; Yu Sakai
+83:::Damage:::Namie Amuro
+84:::What Could Have Been Love:::Aerosmith
+85:::Rising Sun:::EXILE
+86:::FIND THE LIGHT:::WORLD ORDER
+87:::Arigato:::JUJU
+88:::Namae No Nai Kono Ai No Tameni:::Hideaki Tokunaga
+89:::Sunshine:::Macy Gray
+90:::Ichiban Chikakuni:::HY
+91:::Namae No Nai Kaibutsu:::EGOIST
+92:::Touch (Close To You):::Che&#039;Nelle
+93:::Sweet Nothing:::Calvin Harris Featuring Florence Welch
+94:::Revise the World:::ayami
+95:::Anatani:::MONGOL800
+96:::Shiroi Koibitotachi:::Shota Shimizu
+97:::Eien Pressure:::AKB48
+98:::Euphoria:::Loreen
+99:::Wonder:::Emeli Sande Featuring Naughty Boy
+100:::Candy:::Robbie Williams

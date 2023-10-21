@@ -1,0 +1,1033 @@
+Billboard Hot 100 – Billboard
+>>>DATE:
+2023-05-27
+2023-06-03
+END DATE<<<
+>>>ARTIST:
+Bad Bunny
+
+>>>SONG:
+Where She Goes
+
+  8th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Bailey Zimmerman
+
+>>>SONG:
+Rock And A Hard Place
+
+ 15th-2023-05-27
+ 19th-2023-06-03
+END SONG<<<
+>>>SONG:
+Religiously
+
+ 40th-2023-05-27
+ 48th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Becky G &Amp; Peso Pluma
+
+>>>SONG:
+Chanel
+
+ 60th-2023-05-27
+ 60th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Beyonce Featuring Kendrick Lam
+
+>>>SONG:
+America Has A Problem
+
+ 38th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Chino Pacas
+
+>>>SONG:
+El Gordo Trae El Mando
+
+ 72nd-2023-05-27
+ 71st-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Chris Brown
+
+>>>SONG:
+Under The Influence
+
+ 34th-2023-05-27
+ 37th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Coco Jones
+
+>>>SONG:
+Icu
+
+ 64th-2023-05-27
+ 67th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Cody Johnson
+
+>>>SONG:
+Human
+
+ 61st-2023-05-27
+ 61st-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Coi Leray
+
+>>>SONG:
+Players
+
+ 24th-2023-05-27
+ 29th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Corey Kent
+
+>>>SONG:
+Wild As Her
+
+ 48th-2023-05-27
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Dababy
+
+>>>SONG:
+Shake Sumn
+
+ 74th-2023-05-27
+ 69th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Dan + Shay
+
+>>>SONG:
+You
+
+ 87th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+David Guetta &Amp; Bebe Rexha
+
+>>>SONG:
+I&#039;M Good (Blue)
+
+ 27th-2023-05-27
+ 30th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+David Guetta, Anne-Marie &Amp;
+
+>>>SONG:
+Baby Don&#039;T Hurt Me
+
+ 96th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+David Kushner
+
+>>>SONG:
+Daylight
+
+ 52nd-2023-05-27
+ 51st-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Doechii Featuring Kodak Black
+
+>>>SONG:
+What It Is (Block Boy)
+
+ 80th-2023-05-27
+ 75th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Don Toliver Featuring Justin B
+
+>>>SONG:
+Private Landing
+
+ 97th-2023-05-27
+ 98th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Drake
+
+>>>SONG:
+Search &Amp; Rescue
+
+ 17th-2023-05-27
+ 16th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Drake &Amp; 21 Savage
+
+>>>SONG:
+Spin Bout U
+
+ 41st-2023-05-27
+ 46th-2023-06-03
+END SONG<<<
+>>>SONG:
+Rich Flex
+
+ 45th-2023-05-27
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Ed Sheeran
+
+>>>SONG:
+Eyes Closed
+
+ 26th-2023-05-27
+ 31st-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Ed Sheeran Featuring Luke Comb
+
+>>>SONG:
+Life Goes On
+
+ 66th-2023-05-27
+ 85th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Eslabon Armado X Peso Pluma
+
+>>>SONG:
+Ella Baila Sola
+
+  5th-2023-05-27
+  6th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Fifty Fifty
+
+>>>SONG:
+Cupid
+
+ 18th-2023-05-27
+ 20th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Fuerza Regida
+
+>>>SONG:
+Tqm
+
+ 35th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Fuerza Regida &Amp; Peso Pluma
+
+>>>SONG:
+Igualito A Mi Apa
+
+ 90th-2023-05-27
+ 95th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Fuerza Regida X Natanael Cano
+
+>>>SONG:
+Ch Y La Pizza
+
+ 88th-2023-05-27
+ 86th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Gabito Ballesteros, Peso Pluma
+
+>>>SONG:
+Amg
+
+ 54th-2023-05-27
+ 58th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Grupo Frontera X Bad Bunny
+
+>>>SONG:
+Un X100To
+
+ 12th-2023-05-27
+ 14th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Hailey Whitters
+
+>>>SONG:
+Everything She Ain&#039;T
+
+ 94th-2023-05-27
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Harry Styles
+
+>>>SONG:
+As It Was
+
+ 21st-2023-05-27
+ 22nd-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Ice Spice
+
+>>>SONG:
+In Ha Mood
+
+ 93rd-2023-05-27
+ 99th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Ice Spice &Amp; Nicki Minaj
+
+>>>SONG:
+Princess Diana
+
+ 38th-2023-05-27
+ 43rd-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Jelly Roll
+
+>>>SONG:
+Need A Favor
+
+ 56th-2023-05-27
+ 40th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Jon Pardi
+
+>>>SONG:
+Your Heart Or Mine
+
+ 95th-2023-05-27
+ 89th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Jonas Brothers
+
+>>>SONG:
+Waffle House
+
+ 57th-2023-05-27
+ 64th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Jordan Davis
+
+>>>SONG:
+Next Thing You Know
+
+ 37th-2023-05-27
+ 39th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Junior H X Peso Pluma
+
+>>>SONG:
+El Azul
+
+ 55th-2023-05-27
+ 56th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Justin Moore &Amp; Priscilla B
+
+>>>SONG:
+You, Me, &Amp; Whiskey
+
+ 91st-2023-05-27
+ 82nd-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Kali
+
+>>>SONG:
+Area Codes
+
+ 33rd-2023-05-27
+ 33rd-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Kali Uchis
+
+>>>SONG:
+Moonlight
+
+ 83rd-2023-05-27
+ 80th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Kane Brown
+
+>>>SONG:
+Bury Me In Georgia
+
+ 85th-2023-05-27
+ 94th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Kane Brown With Katelyn Brown
+
+>>>SONG:
+Thank God
+
+ 28th-2023-05-27
+ 32nd-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Karol G X Shakira
+
+>>>SONG:
+Tqg
+
+ 49th-2023-05-27
+ 53rd-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Kodak Black, Nle Choppa, Jimin
+
+>>>SONG:
+Angel, Pt. 1
+
+ 65th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Lana Del Rey
+
+>>>SONG:
+Say Yes To Heaven
+
+ 54th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Libianca
+
+>>>SONG:
+People
+
+ 89th-2023-05-27
+ 92nd-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Lil Baby
+
+>>>SONG:
+Low Down
+
+ 71st-2023-05-27
+ 74th-2023-06-03
+END SONG<<<
+>>>SONG:
+Go Hard
+
+ 81st-2023-05-27
+ 76th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Lil Baby Featuring Fridayy
+
+>>>SONG:
+Forever
+
+ 96th-2023-05-27
+100th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Lil Durk Featuring J. Cole
+
+>>>SONG:
+All My Life
+
+  2nd-2023-05-27
+  7th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Lil Mabu
+
+>>>SONG:
+Mathematical Disrespect
+
+ 47th-2023-05-27
+ 59th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Lil Uzi Vert
+
+>>>SONG:
+Just Wanna Rock
+
+ 43rd-2023-05-27
+ 50th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Lizzy Mcalpine
+
+>>>SONG:
+Ceilings
+
+ 92nd-2023-05-27
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Luke Combs
+
+>>>SONG:
+Fast Car
+
+  9th-2023-05-27
+ 10th-2023-06-03
+END SONG<<<
+>>>SONG:
+Love You Anyway
+
+ 44th-2023-05-27
+ 45th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Megan Moroney
+
+>>>SONG:
+Tennessee Orange
+
+ 35th-2023-05-27
+ 41st-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Metro Boomin, Future &Amp; Chr
+
+>>>SONG:
+Superhero (Heroes &Amp; Villai
+
+ 50th-2023-05-27
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Metro Boomin, The Weeknd &Amp;
+
+>>>SONG:
+Creepin&#039;
+
+  7th-2023-05-27
+  9th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Metro Boomin, Travis Scott &Am
+
+>>>SONG:
+Trance
+
+ 76th-2023-05-27
+ 79th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Miguel
+
+>>>SONG:
+Sure Thing
+
+ 14th-2023-05-27
+ 13th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Miley Cyrus
+
+>>>SONG:
+Flowers
+
+  3rd-2023-05-27
+  2nd-2023-06-03
+END SONG<<<
+>>>SONG:
+Jaded
+
+ 90th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Morgan Wallen
+
+>>>SONG:
+Last Night
+
+  1st-2023-05-27
+  1st-2023-06-03
+END SONG<<<
+>>>SONG:
+You Proof
+
+ 19th-2023-05-27
+ 23rd-2023-06-03
+END SONG<<<
+>>>SONG:
+Thinkin&#039; Bout Me
+
+ 25th-2023-05-27
+ 25th-2023-06-03
+END SONG<<<
+>>>SONG:
+One Thing At A Time
+
+ 30th-2023-05-27
+ 26th-2023-06-03
+END SONG<<<
+>>>SONG:
+Thought You Should Know
+
+ 31st-2023-05-27
+ 34th-2023-06-03
+END SONG<<<
+>>>SONG:
+Ain&#039;T That Some
+
+ 68th-2023-05-27
+ 72nd-2023-06-03
+END SONG<<<
+>>>SONG:
+I Wrote The Book
+
+ 79th-2023-05-27
+ 84th-2023-06-03
+END SONG<<<
+>>>SONG:
+Everything I Love
+
+ 82nd-2023-05-27
+ 91st-2023-06-03
+END SONG<<<
+>>>SONG:
+Sunrise
+
+ 99th-2023-05-27
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Morgan Wallen Featuring Eric C
+
+>>>SONG:
+Man Made A Bar
+
+ 86th-2023-05-27
+ 88th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Morgan Wallen Featuring Ernest
+
+>>>SONG:
+Cowgirls
+
+ 67th-2023-05-27
+ 66th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Nate Smith
+
+>>>SONG:
+Wreckage
+
+ 97th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Nf
+
+>>>SONG:
+Happy
+
+100th-2023-05-27
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Nicki Minaj
+
+>>>SONG:
+Red Ruby Da Sleeze
+
+ 73rd-2023-05-27
+ 83rd-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Nle Choppa
+
+>>>SONG:
+Slut Me Out
+
+ 51st-2023-05-27
+ 55th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Old Dominion
+
+>>>SONG:
+Memory Lane
+
+ 63rd-2023-05-27
+ 57th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Parker Mccollum
+
+>>>SONG:
+Handle On You
+
+ 53rd-2023-05-27
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Peso Pluma
+
+>>>SONG:
+Por Las Noches
+
+ 36th-2023-05-27
+ 42nd-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Peso Pluma X Natanael Cano
+
+>>>SONG:
+Prc
+
+ 39th-2023-05-27
+ 44th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Pinkpantheress &Amp; Ice Spice
+
+>>>SONG:
+Boy&#039;S A Liar, Pt. 2
+
+ 13th-2023-05-27
+ 15th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Post Malone
+
+>>>SONG:
+Chemical
+
+ 22nd-2023-05-27
+ 21st-2023-06-03
+END SONG<<<
+>>>SONG:
+Mourning
+
+ 36th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Rema &Amp; Selena Gomez
+
+>>>SONG:
+Calm Down
+
+  6th-2023-05-27
+  4th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Rod Wave
+
+>>>SONG:
+Fight The Feeling
+
+ 70th-2023-05-27
+ 68th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Rosalia &Amp; Rauw Alejandro
+
+>>>SONG:
+Beso
+
+ 77th-2023-05-27
+ 77th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Sabrina Carpenter
+
+>>>SONG:
+Nonsense
+
+ 59th-2023-05-27
+ 78th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Sam Smith &Amp; Kim Petras
+
+>>>SONG:
+Unholy
+
+ 42nd-2023-05-27
+ 47th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Scotty Mccreery
+
+>>>SONG:
+It Matters To Her
+
+ 65th-2023-05-27
+ 62nd-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Shakira
+
+>>>SONG:
+Acrostico
+
+ 84th-2023-05-27
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Summer Walker &Amp; J. Cole
+
+>>>SONG:
+To Summer, From Cole (Audio Hu
+
+ 63rd-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Superstar Pride
+
+>>>SONG:
+Painting Pictures
+
+ 78th-2023-05-27
+ 93rd-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Sza
+
+>>>SONG:
+Kill Bill
+
+  4th-2023-05-27
+  3rd-2023-06-03
+END SONG<<<
+>>>SONG:
+Snooze
+
+ 29th-2023-05-27
+ 28th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Taylor Swift
+
+>>>SONG:
+Anti-Hero
+
+ 10th-2023-05-27
+ 12th-2023-06-03
+END SONG<<<
+>>>SONG:
+Karma
+
+ 32nd-2023-05-27
+END SONG<<<
+>>>SONG:
+Cruel Summer
+
+ 49th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Taylor Swift Featuring Ice Spi
+
+>>>SONG:
+Karma
+
+ 27th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+The Weeknd &Amp; Ariana Grande
+
+>>>SONG:
+Die For You
+
+ 11th-2023-05-27
+ 11th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+The Weeknd Featuring Future
+
+>>>SONG:
+Double Fantasy
+
+ 58th-2023-05-27
+ 73rd-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Toosii
+
+>>>SONG:
+Favorite Song
+
+  8th-2023-05-27
+  5th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Tyler Hubbard
+
+>>>SONG:
+Dancin&#039; In The Country
+
+ 23rd-2023-05-27
+ 24th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Tyler, The Creator Featuring K
+
+>>>SONG:
+See You Again
+
+ 46th-2023-05-27
+ 52nd-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Yahritza Y Su Esencia X Grupo 
+
+>>>SONG:
+Fragil
+
+ 69th-2023-05-27
+ 70th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Yandel &Amp; Feid
+
+>>>SONG:
+Yandel 150
+
+ 75th-2023-05-27
+ 81st-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Yng Lvcas X Peso Pluma
+
+>>>SONG:
+La Bebe
+
+ 16th-2023-05-27
+ 18th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Youngboy Never Broke Again
+
+>>>SONG:
+Bitch Let&#039;S Do It
+
+ 62nd-2023-05-27
+END SONG<<<
+>>>SONG:
+F**K The Industry Pt. 2
+
+ 87th-2023-05-27
+END SONG<<<
+>>>SONG:
+I Heard
+
+ 98th-2023-05-27
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Zach Bryan
+
+>>>SONG:
+Something In The Orange
+
+ 20th-2023-05-27
+ 17th-2023-06-03
+END SONG<<<
+END ARTIST<<<

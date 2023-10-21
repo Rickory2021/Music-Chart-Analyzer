@@ -1,0 +1,100 @@
+1:::Sing-Along:::Hey! Say! JUMP
+2:::Kimi Ni Muchuu:::Hikaru Utada
+3:::Kakusei:::Nanabun No Nijyuuni
+4:::Betelgeuse:::Yuri
+5:::Butter:::BTS
+6:::Dried Flower:::Yuuri
+7:::Heart:::aimyon
+8:::Akeboshi:::LiSA
+9:::Suiheisen:::back number
+10:::Nandemo Naiyo:::Macaroni Empitsu
+11:::Gifted.:::BE:FIRST
+12:::Chopstick:::NiziU
+13:::Ubu Love:::Naniwa Danshi
+14:::Cry Baby:::Official HIGE DANdism
+15:::Odoriko:::VAUNDY
+16:::Dynamite:::BTS
+17:::Permission To Dance:::BTS
+18:::The Feels:::TWICE
+19:::Yoru Ni Kakeru:::YOASOBI
+20:::Ashura Chan:::Ado
+21:::Monster:::YOASOBI
+22:::Bokura No Kisetsu:::JO1
+23:::Ribbon:::M!LK
+24:::Gunjou:::YOASOBI
+25:::Mirai Chizu:::Yoru No Hitowarai
+26:::Shirogane:::LiSA
+27:::Shutter:::Yuuri
+28:::Stay:::The Kid LAROI &amp; Justin Bieber
+29:::Odo:::Ado
+30:::Last Scene:::Masaki Suda
+31:::not ALONE not HITORI:::Aqours
+32:::Citrus:::Da-iCE
+33:::Kirari:::Fujii Kaze
+34:::Rocketeer:::INI
+35:::Jinchouge:::DISH//
+36:::Cinderella Boy:::Saucy Dog
+37:::Jouryoku:::Ohashi Chippoke
+38:::Scientist:::TWICE
+39:::Avalanche:::UVERworld
+40:::Wasurena:::Awesome City Club
+41:::Yokaze:::Hentai Shinshi Club
+42:::Mahou No Juutan:::Takaya Kawasaki
+43:::Yowanehaki:::MAISONdes Feat. Wanuka, asmi
+44:::Homura:::LiSA
+45:::Pretender:::Official HIGE DANdism
+46:::Christmas Song:::back number
+47:::Niji:::Masaki Suda
+48:::BOY:::King Gnu
+49:::Tsukimisou:::Novelbright
+50:::White Kiss:::SuzukiSuzuki
+51:::Yellow:::back number
+52:::Sangenshoku:::YOASOBI
+53:::Neko:::DISH//
+54:::Usseewa:::Ado
+55:::Aldebaran:::AI
+56:::Exceed:::Eden
+57:::Marigold:::aimyon
+58:::I LOVE…:::Official HIGE DANdism
+59:::Stand By Me, Stand By You.:::Dai Hirai
+60:::Mou Sukoshi Dake:::YOASOBI
+61:::My Universe:::Coldplay x BTS
+62:::Gira Gira:::Ado
+63:::Hadaka No Kokoro:::aimyon
+64:::Taisho Roman:::YOASOBI
+65:::Kaikai Kitan:::Eve
+66:::Yours:::JIN
+67:::Yoru Naderu Menou:::Ayase
+68:::Itoshiki Hibi No Mannaka De:::Dai Hirai
+69:::Tenbyou No Uta:::Mrs. GREEN APPLE Feat. Sonoko Inoue
+70:::Kaitou:::back number
+71:::Kotae Awase:::The JuJu
+72:::Hakujitsu:::King Gnu
+73:::Takane No Hanako San:::back number
+74:::Kakurenbo:::Yuuri
+75:::115 Man Kilo No Film:::Official HIGE DANdism
+76:::Lemon:::Kenshi Yonezu
+77:::Easy On Me:::Adele
+78:::Haru Wo Tsugeru:::yama
+79:::Mela!:::Ryokuoushoku Shakai
+80:::Need U:::NiziU
+81:::napori:::VAUNDY
+82:::Daikoubutsu:::Spitz
+83:::Shining One:::BE:FIRST
+84:::Gurenge:::LiSA
+85:::Hana Uranai:::VAUNDY
+86:::Terminal (Bokura.Arubeki Basho):::Luce Twinkle Wink
+87:::Take A Picture:::NiziU
+88:::Harujion:::YOASOBI
+89:::FINAL PIECE:::Hyde
+90:::Loveletter:::YOASOBI
+91:::Kanden:::Kenshi Yonezu
+92:::Yuke:::LiSA
+93:::Bluma to Lunch:::BLOOM VASE
+94:::Koibito Gokko:::Macaroni Empitsu
+95:::Waraikata:::Yoru No Hitowarai
+96:::Itsuka:::Saucy Dog
+97:::Seeker:::Novelbright
+98:::All Around The World:::BALLISTIK BOYZ from EXILE TRIBE
+99:::Curtain Call:::Shota Shimizu Feat.Taka
+100:::Eikou:::Bullet-Train

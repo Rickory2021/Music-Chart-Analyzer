@@ -1,0 +1,4189 @@
+Billboard Japan Hot 100 – Billboard
+>>>DATE:
+2023-01-07
+2023-01-14
+2023-01-21
+2023-01-28
+2023-02-04
+2023-02-11
+2023-02-18
+2023-02-25
+2023-03-04
+2023-03-11
+2023-03-18
+2023-03-25
+2023-04-01
+2023-04-08
+2023-04-15
+2023-04-22
+2023-04-29
+2023-05-06
+2023-05-13
+2023-05-20
+2023-05-27
+2023-06-03
+END DATE<<<
+>>>ARTIST:
+(G)I-Dle
+
+>>>SONG:
+Queencard
+
+ 57th-2023-05-27
+ 59th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+10-Feet
+
+>>>SONG:
+Dai Zero Kan
+
+  6th-2023-01-07
+  6th-2023-01-14
+  8th-2023-01-21
+  6th-2023-01-28
+  6th-2023-02-04
+  6th-2023-02-11
+  7th-2023-02-18
+  6th-2023-02-25
+  7th-2023-03-04
+  4th-2023-03-11
+  6th-2023-03-18
+  9th-2023-03-25
+  9th-2023-04-01
+  6th-2023-04-08
+ 10th-2023-04-15
+ 13th-2023-04-22
+  8th-2023-04-29
+ 12th-2023-05-06
+ 14th-2023-05-13
+ 14th-2023-05-20
+ 13th-2023-05-27
+ 11th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+8Loom
+
+>>>SONG:
+Come Again
+
+ 93rd-2023-01-07
+ 98th-2023-01-14
+END SONG<<<
+>>>SONG:
+Kimi No Hana Ni Naru
+
+ 96th-2023-01-07
+ 90th-2023-01-14
+END SONG<<<
+>>>SONG:
+Melody
+
+ 42nd-2023-01-07
+ 34th-2023-01-14
+ 34th-2023-01-21
+ 40th-2023-01-28
+ 51st-2023-02-04
+ 62nd-2023-02-11
+ 77th-2023-02-18
+ 72nd-2023-02-25
+100th-2023-03-04
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+=Love
+
+>>>SONG:
+Kono Sora Ga Trigger
+
+  4th-2023-03-04
+ 98th-2023-03-11
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+?Me
+
+>>>SONG:
+Tenshi Ha Dokoe
+
+  6th-2023-04-22
+ 59th-2023-04-29
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Ado
+
+>>>SONG:
+Gyakkou (Uta From One Piece Film Red)
+
+ 34th-2023-01-07
+ 33rd-2023-01-14
+ 38th-2023-01-21
+ 44th-2023-01-28
+ 40th-2023-02-04
+ 49th-2023-02-11
+ 61st-2023-02-18
+ 67th-2023-02-25
+ 72nd-2023-03-04
+ 72nd-2023-03-11
+ 58th-2023-03-18
+ 46th-2023-03-25
+ 52nd-2023-04-01
+ 53rd-2023-04-08
+ 63rd-2023-04-15
+ 66th-2023-04-22
+ 78th-2023-04-29
+ 83rd-2023-05-06
+ 84th-2023-05-13
+END SONG<<<
+>>>SONG:
+I&#039;M A Controversy
+
+ 27th-2023-03-04
+ 35th-2023-03-11
+ 66th-2023-03-18
+ 85th-2023-03-25
+ 97th-2023-04-01
+END SONG<<<
+>>>SONG:
+Ibara
+
+ 38th-2023-05-20
+ 65th-2023-05-27
+ 83rd-2023-06-03
+END SONG<<<
+>>>SONG:
+Odo
+
+ 84th-2023-01-14
+ 62nd-2023-01-21
+ 71st-2023-01-28
+ 69th-2023-02-04
+ 80th-2023-02-11
+ 82nd-2023-02-18
+ 82nd-2023-02-25
+ 84th-2023-03-04
+ 82nd-2023-03-11
+ 96th-2023-03-18
+ 89th-2023-03-25
+ 95th-2023-04-01
+ 98th-2023-04-08
+END SONG<<<
+>>>SONG:
+Shin Jidai (Uta From One Piece Film Red)
+
+  3rd-2023-01-07
+  4th-2023-01-14
+  6th-2023-01-21
+  8th-2023-01-28
+  9th-2023-02-04
+  8th-2023-02-11
+ 13th-2023-02-18
+ 11th-2023-02-25
+ 11th-2023-03-04
+ 10th-2023-03-11
+ 11th-2023-03-18
+ 12th-2023-03-25
+ 12th-2023-04-01
+ 13th-2023-04-08
+ 12th-2023-04-15
+ 12th-2023-04-22
+ 17th-2023-04-29
+ 18th-2023-05-06
+ 20th-2023-05-13
+ 28th-2023-05-20
+ 30th-2023-05-27
+ 27th-2023-06-03
+END SONG<<<
+>>>SONG:
+Utakata Lullaby (Uta From One Piece File Red)
+
+ 41st-2023-01-07
+ 39th-2023-01-14
+ 44th-2023-01-21
+ 60th-2023-01-28
+ 62nd-2023-02-04
+ 75th-2023-02-11
+ 83rd-2023-02-18
+ 84th-2023-02-25
+ 91st-2023-03-04
+ 97th-2023-03-11
+ 81st-2023-03-18
+ 66th-2023-03-25
+ 71st-2023-04-01
+ 76th-2023-04-08
+ 88th-2023-04-15
+END SONG<<<
+>>>SONG:
+Watashi Ha Saikyo (Uta From One Piece Film Red)
+
+ 14th-2023-01-07
+ 16th-2023-01-14
+ 18th-2023-01-21
+ 22nd-2023-01-28
+ 24th-2023-02-04
+ 29th-2023-02-11
+ 32nd-2023-02-18
+ 35th-2023-02-25
+ 36th-2023-03-04
+ 31st-2023-03-11
+ 29th-2023-03-18
+ 25th-2023-03-25
+ 28th-2023-04-01
+ 28th-2023-04-08
+ 31st-2023-04-15
+ 36th-2023-04-22
+ 39th-2023-04-29
+ 39th-2023-05-06
+ 38th-2023-05-13
+ 52nd-2023-05-20
+ 52nd-2023-05-27
+ 45th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Aespa
+
+>>>SONG:
+Spicy
+
+ 71st-2023-05-20
+ 64th-2023-05-27
+ 72nd-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Agust D
+
+>>>SONG:
+Haegeum
+
+ 81st-2023-04-29
+ 66th-2023-05-06
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Agust D &Amp; Iu
+
+>>>SONG:
+People Pt.2
+
+ 99th-2023-04-22
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Aiko
+
+>>>SONG:
+Akatoki Reload
+
+ 69th-2023-01-21
+END SONG<<<
+>>>SONG:
+Areta Kuchibiru Wa Koi Wo Nakusu
+
+ 49th-2023-04-08
+END SONG<<<
+>>>SONG:
+Hanabi
+
+ 98th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Aimer
+
+>>>SONG:
+Escalate
+
+ 77th-2023-03-11
+END SONG<<<
+>>>SONG:
+Zankyosanka
+
+ 15th-2023-01-07
+ 15th-2023-01-14
+ 23rd-2023-01-21
+ 24th-2023-01-28
+ 29th-2023-02-04
+ 28th-2023-02-11
+ 31st-2023-02-18
+ 31st-2023-02-25
+ 33rd-2023-03-04
+ 30th-2023-03-11
+ 34th-2023-03-18
+ 35th-2023-03-25
+ 40th-2023-04-01
+ 39th-2023-04-08
+ 40th-2023-04-15
+ 38th-2023-04-22
+ 38th-2023-04-29
+ 36th-2023-05-06
+ 37th-2023-05-13
+ 45th-2023-05-20
+ 45th-2023-05-27
+ 40th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Aimyon
+
+>>>SONG:
+Ai No Hana
+
+ 13th-2023-04-15
+ 15th-2023-04-22
+ 19th-2023-04-29
+ 29th-2023-05-06
+ 34th-2023-05-13
+ 39th-2023-05-20
+ 42nd-2023-05-27
+ 34th-2023-06-03
+END SONG<<<
+>>>SONG:
+Kimi Ha Rock Wo Kikanai
+
+ 88th-2023-01-14
+END SONG<<<
+>>>SONG:
+Marigold
+
+ 65th-2023-01-07
+ 58th-2023-01-14
+ 55th-2023-01-21
+ 61st-2023-01-28
+ 57th-2023-02-04
+ 60th-2023-02-11
+ 59th-2023-02-18
+ 58th-2023-02-25
+ 57th-2023-03-04
+ 50th-2023-03-11
+ 52nd-2023-03-18
+ 56th-2023-03-25
+ 51st-2023-04-01
+ 48th-2023-04-08
+ 49th-2023-04-15
+ 52nd-2023-04-22
+ 54th-2023-04-29
+ 51st-2023-05-06
+ 46th-2023-05-13
+ 64th-2023-05-20
+ 61st-2023-05-27
+ 50th-2023-06-03
+END SONG<<<
+>>>SONG:
+On A Cherry Blossom Night
+
+ 94th-2023-04-08
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Akb48
+
+>>>SONG:
+Doushitemo Kimiga Sukida
+
+  3rd-2023-05-06
+ 50th-2023-05-20
+ 13th-2023-06-03
+END SONG<<<
+>>>SONG:
+Hisashiburi No Lip Gloss
+
+ 79th-2023-02-04
+ 68th-2023-02-25
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Ano
+
+>>>SONG:
+Chu-Tayousei
+
+ 50th-2023-01-07
+ 57th-2023-01-14
+ 65th-2023-01-21
+ 69th-2023-01-28
+ 72nd-2023-02-04
+ 72nd-2023-02-11
+ 72nd-2023-02-18
+ 74th-2023-02-25
+ 75th-2023-03-04
+ 67th-2023-03-11
+ 44th-2023-03-18
+ 43rd-2023-03-25
+ 46th-2023-04-01
+ 47th-2023-04-08
+ 61st-2023-04-15
+ 83rd-2023-04-22
+ 86th-2023-04-29
+ 95th-2023-05-06
+ 75th-2023-05-13
+ 92nd-2023-05-20
+ 93rd-2023-05-27
+ 99th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Atarashii Gakko!
+
+>>>SONG:
+Otonablue
+
+ 95th-2023-03-11
+ 93rd-2023-03-18
+ 49th-2023-03-25
+ 41st-2023-04-01
+ 64th-2023-04-08
+ 57th-2023-04-15
+ 10th-2023-04-22
+ 13th-2023-04-29
+ 23rd-2023-05-06
+ 22nd-2023-05-13
+ 17th-2023-05-20
+ 16th-2023-05-27
+ 25th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Ateez
+
+>>>SONG:
+Limitless
+
+  6th-2023-04-01
+ 88th-2023-05-20
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Axxx1S
+
+>>>SONG:
+Resq!!
+
+ 22nd-2023-01-14
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Back Number
+
+>>>SONG:
+Christmas Song
+
+ 24th-2023-01-07
+ 59th-2023-01-14
+ 86th-2023-01-21
+ 87th-2023-01-28
+ 77th-2023-02-04
+ 96th-2023-02-11
+END SONG<<<
+>>>SONG:
+Hanataba
+
+ 94th-2023-02-04
+END SONG<<<
+>>>SONG:
+Heroine
+
+ 70th-2023-01-07
+100th-2023-01-14
+ 98th-2023-01-28
+ 65th-2023-02-04
+ 87th-2023-02-11
+ 97th-2023-02-18
+END SONG<<<
+>>>SONG:
+I Love You
+
+ 16th-2023-01-07
+ 14th-2023-01-14
+ 15th-2023-01-21
+  7th-2023-01-28
+  8th-2023-02-04
+  9th-2023-02-11
+ 11th-2023-02-18
+ 12th-2023-02-25
+ 12th-2023-03-04
+ 12th-2023-03-11
+ 18th-2023-03-18
+ 15th-2023-03-25
+ 17th-2023-04-01
+ 12th-2023-04-08
+ 14th-2023-04-15
+ 21st-2023-04-22
+ 20th-2023-04-29
+ 24th-2023-05-06
+ 30th-2023-05-13
+ 35th-2023-05-20
+ 34th-2023-05-27
+ 38th-2023-06-03
+END SONG<<<
+>>>SONG:
+Kaitou
+
+ 84th-2023-01-28
+ 90th-2023-02-04
+END SONG<<<
+>>>SONG:
+Secret Kiss
+
+ 89th-2023-01-28
+ 76th-2023-02-04
+END SONG<<<
+>>>SONG:
+Suiheisen
+
+ 19th-2023-01-07
+ 19th-2023-01-14
+ 22nd-2023-01-21
+ 13th-2023-01-28
+ 14th-2023-02-04
+ 16th-2023-02-11
+ 17th-2023-02-18
+ 15th-2023-02-25
+ 15th-2023-03-04
+ 14th-2023-03-11
+ 21st-2023-03-18
+ 19th-2023-03-25
+ 23rd-2023-04-01
+ 22nd-2023-04-08
+ 20th-2023-04-15
+ 25th-2023-04-22
+ 24th-2023-04-29
+ 21st-2023-05-06
+ 29th-2023-05-13
+ 34th-2023-05-20
+ 36th-2023-05-27
+ 30th-2023-06-03
+END SONG<<<
+>>>SONG:
+Takane No Hanako San
+
+ 64th-2023-01-07
+ 47th-2023-01-14
+ 53rd-2023-01-21
+ 43rd-2023-01-28
+ 37th-2023-02-04
+ 45th-2023-02-11
+ 44th-2023-02-18
+ 44th-2023-02-25
+ 47th-2023-03-04
+ 45th-2023-03-11
+ 47th-2023-03-18
+ 44th-2023-03-25
+ 50th-2023-04-01
+ 44th-2023-04-08
+ 50th-2023-04-15
+ 53rd-2023-04-22
+ 53rd-2023-04-29
+ 53rd-2023-05-06
+ 52nd-2023-05-13
+ 63rd-2023-05-20
+ 62nd-2023-05-27
+ 60th-2023-06-03
+END SONG<<<
+>>>SONG:
+Velvet No Uta
+
+ 59th-2023-01-28
+ 60th-2023-02-04
+ 66th-2023-02-11
+ 87th-2023-02-18
+ 86th-2023-02-25
+ 99th-2023-03-04
+ 91st-2023-03-11
+ 99th-2023-03-18
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Be:First
+
+>>>SONG:
+Boom Boom Back
+
+  1st-2023-02-25
+  8th-2023-03-04
+ 32nd-2023-03-11
+ 28th-2023-03-18
+ 38th-2023-03-25
+ 44th-2023-04-01
+ 52nd-2023-04-08
+ 54th-2023-04-15
+ 56th-2023-04-22
+ 70th-2023-04-29
+ 42nd-2023-05-06
+ 82nd-2023-05-13
+END SONG<<<
+>>>SONG:
+Bye-Good-Bye
+
+ 94th-2023-05-27
+END SONG<<<
+>>>SONG:
+Great Mistakes
+
+ 80th-2023-05-06
+END SONG<<<
+>>>SONG:
+Smile  Again
+
+  2nd-2023-05-06
+  3rd-2023-05-13
+ 11th-2023-05-20
+ 21st-2023-05-27
+ 26th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Beyooooonds
+
+>>>SONG:
+Motomeyo...Unmei No Tabibitozan
+
+  5th-2023-04-22
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Bish
+
+>>>SONG:
+Bye-Bye Show
+
+  1st-2023-04-01
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Boymen Area Kenkyusei
+
+>>>SONG:
+Sleeping Beauty
+
+ 11th-2023-01-07
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Boys Planet
+
+>>>SONG:
+Jelly Pop
+
+ 99th-2023-05-06
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Bss Featuring Lee Young Ji
+
+>>>SONG:
+Fighting
+
+  1st-2023-02-18
+ 29th-2023-02-25
+ 62nd-2023-03-04
+ 69th-2023-03-11
+ 85th-2023-03-18
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Bts
+
+>>>SONG:
+Butter
+
+ 90th-2023-01-07
+END SONG<<<
+>>>SONG:
+Dynamite
+
+ 68th-2023-01-07
+ 74th-2023-01-14
+ 80th-2023-01-21
+ 93rd-2023-01-28
+ 91st-2023-02-04
+ 91st-2023-02-11
+ 81st-2023-02-18
+ 83rd-2023-02-25
+ 77th-2023-03-04
+ 71st-2023-03-11
+ 87th-2023-03-18
+ 88th-2023-03-25
+ 90th-2023-04-01
+100th-2023-04-08
+ 97th-2023-04-15
+ 89th-2023-04-29
+ 98th-2023-05-13
+END SONG<<<
+>>>SONG:
+The Planet
+
+ 43rd-2023-05-20
+ 40th-2023-05-27
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Buddiis
+
+>>>SONG:
+Magic
+
+ 32nd-2023-05-20
+ 11th-2023-05-27
+ 42nd-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Bullet-Train
+
+>>>SONG:
+Call My Name
+
+ 43rd-2023-06-03
+END SONG<<<
+>>>SONG:
+Shandy
+
+ 67th-2023-03-18
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Bump Of Chicken
+
+>>>SONG:
+Mado No Naka Kara
+
+ 81st-2023-04-08
+ 29th-2023-04-15
+ 80th-2023-04-22
+END SONG<<<
+>>>SONG:
+Souvenir
+
+ 30th-2023-01-07
+ 36th-2023-01-14
+ 43rd-2023-01-21
+ 55th-2023-01-28
+ 73rd-2023-02-04
+ 84th-2023-02-11
+ 94th-2023-02-18
+ 87th-2023-02-25
+ 95th-2023-03-04
+  2nd-2023-04-15
+ 84th-2023-04-22
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Chameleon Lime Whoopiepie
+
+>>>SONG:
+Stand Out Chameleon
+
+ 80th-2023-04-15
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Chilli Beans Feat. Vaundy
+
+>>>SONG:
+Rose
+
+ 44th-2023-02-11
+ 98th-2023-02-18
+ 48th-2023-03-04
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Cho Tokimeki Sendenbu
+
+>>>SONG:
+Love Iyaiya Ki
+
+ 12th-2023-05-20
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Cho Tokkyu
+
+>>>SONG:
+New World
+
+ 80th-2023-01-07
+ 87th-2023-01-14
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Da-Ice
+
+>>>SONG:
+Citrus
+
+ 54th-2023-01-07
+ 56th-2023-01-14
+ 64th-2023-01-21
+ 68th-2023-01-28
+ 64th-2023-02-04
+ 67th-2023-02-11
+ 66th-2023-02-18
+ 65th-2023-02-25
+ 71st-2023-03-04
+ 70th-2023-03-11
+ 76th-2023-03-18
+ 79th-2023-03-25
+ 80th-2023-04-01
+ 82nd-2023-04-08
+ 95th-2023-04-15
+ 86th-2023-04-22
+ 90th-2023-04-29
+ 93rd-2023-05-06
+ 81st-2023-05-13
+ 91st-2023-06-03
+END SONG<<<
+>>>SONG:
+Dandelion
+
+100th-2023-04-29
+END SONG<<<
+>>>SONG:
+Star Main
+
+ 25th-2023-01-07
+ 27th-2023-01-14
+ 27th-2023-01-21
+ 26th-2023-01-28
+ 33rd-2023-02-04
+ 38th-2023-02-11
+ 41st-2023-02-18
+ 40th-2023-02-25
+ 43rd-2023-03-04
+ 41st-2023-03-11
+ 41st-2023-03-18
+ 50th-2023-03-25
+ 57th-2023-04-01
+ 56th-2023-04-08
+ 69th-2023-04-15
+ 89th-2023-04-22
+ 88th-2023-04-29
+ 59th-2023-05-06
+ 55th-2023-05-13
+ 72nd-2023-05-20
+ 75th-2023-05-27
+ 41st-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Dish//
+
+>>>SONG:
+Neko
+
+ 86th-2023-03-04
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Dxteen
+
+>>>SONG:
+Brand New Day
+
+ 40th-2023-05-20
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Ed Sheeran
+
+>>>SONG:
+Eyes Closed
+
+ 92nd-2023-04-08
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Elephant Kashimashi
+
+>>>SONG:
+Yes. I. Do
+
+ 61st-2023-03-18
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Enhypen
+
+>>>SONG:
+Bite Me
+
+ 12th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Enjin
+
+>>>SONG:
+Merry Go Round
+
+ 59th-2023-04-08
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Eve
+
+>>>SONG:
+Bokurano
+
+ 42nd-2023-04-01
+END SONG<<<
+>>>SONG:
+Fightsong
+
+ 26th-2023-01-07
+ 26th-2023-01-14
+ 56th-2023-01-21
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Fantastics From Exile Tribe
+
+>>>SONG:
+Panorama Jet
+
+  5th-2023-04-29
+ 45th-2023-05-06
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Fujii Kaze
+
+>>>SONG:
+Grace
+
+ 72nd-2023-01-07
+ 61st-2023-01-14
+ 78th-2023-01-21
+ 82nd-2023-01-28
+END SONG<<<
+>>>SONG:
+Kirari
+
+ 55th-2023-01-07
+ 50th-2023-01-14
+ 54th-2023-01-21
+ 54th-2023-01-28
+ 55th-2023-02-04
+ 64th-2023-02-11
+ 58th-2023-02-18
+ 64th-2023-02-25
+ 70th-2023-03-04
+ 57th-2023-03-11
+ 69th-2023-03-18
+ 69th-2023-03-25
+ 75th-2023-04-01
+ 75th-2023-04-08
+ 79th-2023-04-15
+ 82nd-2023-04-22
+ 63rd-2023-04-29
+ 67th-2023-05-06
+ 62nd-2023-05-13
+ 87th-2023-05-20
+ 87th-2023-05-27
+ 93rd-2023-06-03
+END SONG<<<
+>>>SONG:
+Shinunoga Iiwa
+
+ 73rd-2023-01-07
+ 31st-2023-01-14
+ 39th-2023-01-21
+ 48th-2023-01-28
+ 49th-2023-02-04
+ 58th-2023-02-11
+ 69th-2023-02-18
+ 77th-2023-02-25
+ 82nd-2023-03-04
+ 87th-2023-03-11
+ 98th-2023-03-18
+100th-2023-03-25
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Gen Hoshino
+
+>>>SONG:
+Kigeki
+
+100th-2023-01-07
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Glay
+
+>>>SONG:
+Genkai Toppa
+
+ 55th-2023-02-25
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Hi-Standard
+
+>>>SONG:
+I&#039;M A Rat
+
+ 55th-2023-04-29
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Hinatazaka 46
+
+>>>SONG:
+One Choice
+
+ 95th-2023-04-22
+  2nd-2023-04-29
+ 34th-2023-05-06
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Hiraidai
+
+>>>SONG:
+Symphony
+
+ 51st-2023-05-13
+ 37th-2023-05-20
+ 68th-2023-05-27
+ 97th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Hkt48
+
+>>>SONG:
+Kimi Ha Motto Dekiru
+
+  4th-2023-02-18
+ 76th-2023-03-04
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Honeyworks Feat. Capi
+
+>>>SONG:
+Kawaikutegomen
+
+ 67th-2023-01-07
+ 69th-2023-01-14
+ 58th-2023-01-21
+ 58th-2023-01-28
+ 58th-2023-02-04
+ 57th-2023-02-11
+ 65th-2023-02-18
+ 63rd-2023-02-25
+ 68th-2023-03-04
+ 65th-2023-03-11
+ 68th-2023-03-18
+ 75th-2023-03-25
+ 69th-2023-04-01
+ 73rd-2023-04-08
+ 78th-2023-04-15
+100th-2023-04-22
+ 87th-2023-05-13
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Imase
+
+>>>SONG:
+Night Dancer
+
+ 68th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Indigo La End
+
+>>>SONG:
+Namaeha Kataomoi
+
+ 89th-2023-03-11
+ 83rd-2023-03-18
+ 83rd-2023-03-25
+ 61st-2023-04-01
+ 57th-2023-04-08
+ 51st-2023-04-15
+ 65th-2023-04-22
+ 74th-2023-04-29
+ 90th-2023-05-06
+ 96th-2023-05-13
+100th-2023-05-20
+ 96th-2023-05-27
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Ini
+
+>>>SONG:
+Fanfare
+
+ 10th-2023-05-27
+  2nd-2023-06-03
+END SONG<<<
+>>>SONG:
+New Day
+
+ 11th-2023-02-11
+ 29th-2023-02-18
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Ive
+
+>>>SONG:
+After Like
+
+ 99th-2023-01-07
+ 85th-2023-01-14
+ 89th-2023-01-21
+ 97th-2023-01-28
+ 93rd-2023-02-04
+100th-2023-02-11
+END SONG<<<
+>>>SONG:
+Eleven
+
+ 78th-2023-01-14
+END SONG<<<
+>>>SONG:
+I Am
+
+ 17th-2023-04-22
+ 10th-2023-04-29
+ 14th-2023-05-06
+ 28th-2023-05-13
+ 26th-2023-05-20
+ 27th-2023-05-27
+ 35th-2023-06-03
+END SONG<<<
+>>>SONG:
+Kitsch
+
+ 40th-2023-04-08
+ 46th-2023-04-15
+ 41st-2023-04-22
+ 37th-2023-04-29
+ 50th-2023-05-06
+ 68th-2023-05-13
+ 86th-2023-05-20
+ 79th-2023-05-27
+END SONG<<<
+>>>SONG:
+Love Dive
+
+ 33rd-2023-01-28
+ 88th-2023-02-04
+END SONG<<<
+>>>SONG:
+Wave
+
+ 66th-2023-05-20
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+J Soul Brothers 3 From Exile Tribe
+
+>>>SONG:
+Kono Utyu No Katasumide
+
+ 77th-2023-01-14
+END SONG<<<
+>>>SONG:
+Stars
+
+  1st-2023-02-11
+ 60th-2023-02-18
+ 86th-2023-03-18
+ 45th-2023-03-25
+ 73rd-2023-04-01
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+J-Hope With J. Cole
+
+>>>SONG:
+On The Street
+
+ 75th-2023-03-18
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Jimin
+
+>>>SONG:
+Like Crazy
+
+ 91st-2023-04-01
+ 43rd-2023-04-08
+ 56th-2023-04-15
+END SONG<<<
+>>>SONG:
+Set Me Free Pt. 2
+
+ 81st-2023-03-25
+ 59th-2023-04-01
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Jisoo
+
+>>>SONG:
+Flower
+
+ 59th-2023-04-15
+ 55th-2023-04-22
+ 45th-2023-04-29
+ 85th-2023-05-06
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Jo1
+
+>>>SONG:
+Romance
+
+ 71st-2023-02-18
+END SONG<<<
+>>>SONG:
+Tiger
+
+ 45th-2023-04-01
+ 84th-2023-04-08
+  1st-2023-04-15
+ 29th-2023-04-22
+END SONG<<<
+>>>SONG:
+We Good
+
+ 66th-2023-01-28
+ 95th-2023-02-04
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Kanaria
+
+>>>SONG:
+Yoidoreshirazu
+
+ 77th-2023-01-28
+ 42nd-2023-02-04
+ 41st-2023-02-11
+ 42nd-2023-02-18
+ 39th-2023-02-25
+ 41st-2023-03-04
+ 34th-2023-03-11
+ 38th-2023-03-18
+ 39th-2023-03-25
+ 39th-2023-04-01
+ 38th-2023-04-08
+ 39th-2023-04-15
+ 49th-2023-04-22
+ 50th-2023-04-29
+ 52nd-2023-05-06
+ 53rd-2023-05-13
+ 67th-2023-05-20
+ 69th-2023-05-27
+ 63rd-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Kanjani 8
+
+>>>SONG:
+Mikansei
+
+  3rd-2023-05-20
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Keisuke Kuwata
+
+>>>SONG:
+Shiro Koibito Tachi
+
+ 83rd-2023-01-07
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Keisuke Yamauchi
+
+>>>SONG:
+Kokoro Mangekyou
+
+ 68th-2023-03-11
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Kenshi Yonezu
+
+>>>SONG:
+Kick Back
+
+  2nd-2023-01-07
+  2nd-2023-01-14
+  3rd-2023-01-21
+  2nd-2023-01-28
+  3rd-2023-02-04
+  4th-2023-02-11
+  6th-2023-02-18
+  5th-2023-02-25
+  6th-2023-03-04
+  3rd-2023-03-11
+  5th-2023-03-18
+  8th-2023-03-25
+  7th-2023-04-01
+  5th-2023-04-08
+  7th-2023-04-15
+ 14th-2023-04-22
+ 11th-2023-04-29
+ 13th-2023-05-06
+ 16th-2023-05-13
+ 18th-2023-05-20
+ 18th-2023-05-27
+ 15th-2023-06-03
+END SONG<<<
+>>>SONG:
+Lemon
+
+ 98th-2023-01-07
+ 98th-2023-02-11
+ 92nd-2023-02-18
+ 94th-2023-02-25
+ 94th-2023-03-04
+ 92nd-2023-03-11
+ 92nd-2023-03-18
+ 94th-2023-03-25
+ 89th-2023-04-01
+ 72nd-2023-04-08
+ 82nd-2023-04-15
+ 88th-2023-04-22
+ 87th-2023-04-29
+ 89th-2023-05-06
+ 83rd-2023-05-13
+ 98th-2023-05-27
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Kep1Er
+
+>>>SONG:
+I Do! Do You?
+
+ 94th-2023-03-11
+  3rd-2023-03-25
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Kessoku Band
+
+>>>SONG:
+Blue Spring And Western Sky
+
+ 70th-2023-06-03
+END SONG<<<
+>>>SONG:
+Guitar Loneliness And Blue Planet
+
+ 99th-2023-02-04
+END SONG<<<
+>>>SONG:
+If I Could Be A Constellation
+
+ 52nd-2023-01-07
+ 70th-2023-01-14
+ 75th-2023-01-21
+ 76th-2023-01-28
+ 92nd-2023-02-04
+100th-2023-02-18
+END SONG<<<
+>>>SONG:
+Into The Light
+
+ 10th-2023-06-03
+END SONG<<<
+>>>SONG:
+Never Forget
+
+ 85th-2023-01-07
+END SONG<<<
+>>>SONG:
+Seishun Complex
+
+ 89th-2023-01-14
+ 82nd-2023-01-21
+ 91st-2023-01-28
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Ketsumeishi
+
+>>>SONG:
+Sakura
+
+ 78th-2023-04-01
+ 66th-2023-04-08
+END SONG<<<
+>>>SONG:
+Yozora Wo Kakeru
+
+ 32nd-2023-02-11
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+King &Amp; Prince
+
+>>>SONG:
+Cinderella Girl
+
+ 47th-2023-05-13
+ 13th-2023-05-20
+ 22nd-2023-05-27
+ 64th-2023-06-03
+END SONG<<<
+>>>SONG:
+Life Goes On
+
+ 83rd-2023-02-11
+  1st-2023-03-04
+ 16th-2023-03-11
+ 71st-2023-03-18
+END SONG<<<
+>>>SONG:
+Tsukiyomi
+
+ 28th-2023-01-07
+ 35th-2023-01-14
+ 36th-2023-01-21
+ 41st-2023-01-28
+ 43rd-2023-02-04
+ 53rd-2023-02-11
+ 50th-2023-02-18
+ 47th-2023-02-25
+ 56th-2023-03-04
+ 62nd-2023-03-11
+ 72nd-2023-03-18
+ 62nd-2023-03-25
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+King Gnu
+
+>>>SONG:
+Chameleon
+
+ 59th-2023-01-07
+ 60th-2023-01-14
+ 70th-2023-01-21
+ 74th-2023-01-28
+ 70th-2023-02-04
+ 85th-2023-02-11
+ 93rd-2023-02-18
+ 90th-2023-02-25
+ 92nd-2023-03-04
+100th-2023-03-11
+ 98th-2023-03-25
+ 98th-2023-04-01
+END SONG<<<
+>>>SONG:
+Hakujitsu
+
+ 88th-2023-01-07
+ 92nd-2023-01-14
+ 97th-2023-01-21
+ 88th-2023-01-28
+ 82nd-2023-02-04
+ 89th-2023-02-11
+ 88th-2023-02-18
+ 96th-2023-02-25
+ 90th-2023-03-04
+ 85th-2023-03-11
+ 97th-2023-03-18
+ 97th-2023-03-25
+END SONG<<<
+>>>SONG:
+Ichizu
+
+ 47th-2023-01-07
+ 55th-2023-01-14
+ 79th-2023-01-21
+100th-2023-01-28
+END SONG<<<
+>>>SONG:
+Sakayume
+
+ 51st-2023-01-07
+ 52nd-2023-01-14
+ 77th-2023-01-21
+ 85th-2023-01-28
+ 89th-2023-02-04
+END SONG<<<
+>>>SONG:
+Stardom
+
+ 57th-2023-01-07
+ 71st-2023-01-14
+ 88th-2023-01-21
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Kinki Kids
+
+>>>SONG:
+The Story Of Us
+
+  3rd-2023-01-28
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Kiyo
+
+>>>SONG:
+Uchoten-Neko
+
+ 84th-2023-05-06
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Knight A
+
+>>>SONG:
+Allvin
+
+  5th-2023-05-20
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Koda Kumi * Shonannokaze
+
+>>>SONG:
+Trust Last
+
+ 43rd-2023-03-18
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Kodak Black, Nle Choppa, Jimin, Jvke &Amp; Muni Long
+
+>>>SONG:
+Angel, Pt. 1
+
+ 88th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Koshi Inaba
+
+>>>SONG:
+Bantam
+
+ 70th-2023-02-11
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Kyanai
+
+>>>SONG:
+Vanilla
+
+ 95th-2023-01-07
+ 93rd-2023-01-14
+ 87th-2023-01-21
+ 90th-2023-01-28
+ 84th-2023-02-04
+ 88th-2023-02-11
+ 85th-2023-02-18
+ 76th-2023-02-25
+ 78th-2023-03-04
+ 75th-2023-03-11
+ 89th-2023-03-18
+ 92nd-2023-03-25
+ 86th-2023-04-01
+ 88th-2023-04-08
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Lana Feat. Candee &Amp; Zot On The Wave
+
+>>>SONG:
+Turn It Up
+
+100th-2023-02-25
+ 96th-2023-03-04
+ 81st-2023-03-11
+ 79th-2023-03-18
+ 76th-2023-03-25
+ 83rd-2023-04-01
+ 85th-2023-04-08
+ 98th-2023-04-15
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Le Sserafim
+
+>>>SONG:
+Antifragile
+
+ 32nd-2023-01-07
+ 29th-2023-01-14
+ 28th-2023-01-21
+ 30th-2023-01-28
+ 31st-2023-02-04
+ 33rd-2023-02-11
+ 38th-2023-02-18
+ 37th-2023-02-25
+ 40th-2023-03-04
+ 36th-2023-03-11
+ 39th-2023-03-18
+ 53rd-2023-03-25
+ 62nd-2023-04-01
+ 63rd-2023-04-08
+ 67th-2023-04-15
+ 70th-2023-04-22
+ 77th-2023-04-29
+ 78th-2023-05-06
+ 69th-2023-05-13
+ 78th-2023-05-20
+ 71st-2023-05-27
+ 86th-2023-06-03
+END SONG<<<
+>>>SONG:
+Eve, Psyche And The Bluebeard&#039;S Wife
+
+ 56th-2023-06-03
+END SONG<<<
+>>>SONG:
+Fearless
+
+ 75th-2023-01-07
+ 99th-2023-01-14
+  1st-2023-02-04
+  3rd-2023-02-11
+ 22nd-2023-02-18
+ 71st-2023-02-25
+ 81st-2023-03-04
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Le Sserafim Featuring Nile Rodgers
+
+>>>SONG:
+Unforgiven
+
+ 12th-2023-05-13
+ 10th-2023-05-20
+ 12th-2023-05-27
+ 20th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Lil League From Exile Tribe
+
+>>>SONG:
+Hunter
+
+  2nd-2023-01-21
+ 36th-2023-01-28
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Lila Ikuta
+
+>>>SONG:
+Sparkle
+
+ 97th-2023-02-25
+ 99th-2023-03-25
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Lucky Kilimanjaro
+
+>>>SONG:
+Burning Friday Night
+
+ 91st-2023-05-06
+ 76th-2023-05-13
+ 85th-2023-05-20
+ 73rd-2023-05-27
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+M!Lk
+
+>>>SONG:
+Topaz
+
+ 54th-2023-05-20
+ 33rd-2023-05-27
+ 89th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Macaroni Empitsu
+
+>>>SONG:
+Ai No Namiâ 
+
+ 72nd-2023-05-06
+END SONG<<<
+>>>SONG:
+Nandemo Naiyo
+
+ 20th-2023-01-07
+ 23rd-2023-01-14
+ 24th-2023-01-21
+ 27th-2023-01-28
+ 30th-2023-02-04
+ 36th-2023-02-11
+ 37th-2023-02-18
+ 36th-2023-02-25
+ 38th-2023-03-04
+ 33rd-2023-03-11
+ 36th-2023-03-18
+ 36th-2023-03-25
+ 32nd-2023-04-01
+ 32nd-2023-04-08
+ 38th-2023-04-15
+ 42nd-2023-04-22
+ 42nd-2023-04-29
+ 43rd-2023-05-06
+ 43rd-2023-05-13
+ 56th-2023-05-20
+ 50th-2023-05-27
+ 49th-2023-06-03
+END SONG<<<
+>>>SONG:
+Ringyu Love
+
+ 34th-2023-01-28
+ 39th-2023-02-04
+ 39th-2023-02-11
+ 36th-2023-02-18
+ 34th-2023-02-25
+ 37th-2023-03-04
+ 27th-2023-03-11
+ 13th-2023-03-18
+ 13th-2023-03-25
+ 14th-2023-04-01
+ 17th-2023-04-08
+ 23rd-2023-04-15
+ 31st-2023-04-22
+ 35th-2023-04-29
+ 37th-2023-05-06
+ 50th-2023-05-13
+ 55th-2023-05-20
+ 54th-2023-05-27
+ 61st-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Maisondes
+
+>>>SONG:
+Tokyo Shandy Rendezvous
+
+ 31st-2023-01-07
+ 28th-2023-01-14
+ 26th-2023-01-21
+ 23rd-2023-01-28
+ 22nd-2023-02-04
+ 23rd-2023-02-11
+ 25th-2023-02-18
+ 21st-2023-02-25
+ 23rd-2023-03-04
+ 21st-2023-03-11
+ 26th-2023-03-18
+ 30th-2023-03-25
+ 36th-2023-04-01
+ 33rd-2023-04-08
+ 37th-2023-04-15
+ 44th-2023-04-22
+ 47th-2023-04-29
+ 48th-2023-05-06
+ 59th-2023-05-13
+ 70th-2023-05-20
+ 70th-2023-05-27
+ 71st-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Man With A Mission X Milet
+
+>>>SONG:
+Kizuna No Kiseki
+
+  4th-2023-04-22
+  4th-2023-04-29
+  5th-2023-05-06
+  7th-2023-05-13
+  8th-2023-05-20
+  8th-2023-05-27
+  7th-2023-06-03
+END SONG<<<
+>>>SONG:
+Koi Kogare
+
+ 25th-2023-04-29
+ 35th-2023-05-06
+ 45th-2023-05-13
+ 68th-2023-05-20
+ 84th-2023-05-27
+ 53rd-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Mazzel
+
+>>>SONG:
+Mission
+
+100th-2023-04-15
+END SONG<<<
+>>>SONG:
+Vivid
+
+ 22nd-2023-05-20
+  4th-2023-05-27
+ 33rd-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Meychan
+
+>>>SONG:
+Squad
+
+ 21st-2023-02-18
+ 33rd-2023-02-25
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Milet &Amp; Aimer &Amp; Lilas Ikuta
+
+>>>SONG:
+Omokage
+
+ 84th-2023-01-07
+ 20th-2023-01-14
+ 29th-2023-01-21
+ 35th-2023-01-28
+ 45th-2023-02-04
+ 63rd-2023-02-11
+ 68th-2023-02-18
+ 75th-2023-02-25
+ 83rd-2023-03-04
+ 84th-2023-03-11
+ 94th-2023-03-18
+ 93rd-2023-03-25
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Millennium Parade, Sheena Ringo
+
+>>>SONG:
+Work
+
+ 35th-2023-04-15
+ 37th-2023-04-22
+ 26th-2023-04-29
+ 33rd-2023-05-06
+ 56th-2023-05-13
+ 61st-2023-05-20
+ 28th-2023-05-27
+ 54th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Momo Sana Mina
+
+>>>SONG:
+Bouquet
+
+ 32nd-2023-02-04
+ 71st-2023-02-11
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Monolith
+
+>>>SONG:
+Fly Again
+
+ 73rd-2023-03-25
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Mrs. Green Apple
+
+>>>SONG:
+Ao To Natsu
+
+ 89th-2023-01-07
+ 94th-2023-01-14
+ 92nd-2023-01-21
+ 94th-2023-01-28
+ 85th-2023-02-04
+ 90th-2023-02-11
+ 91st-2023-02-18
+ 85th-2023-02-25
+ 79th-2023-03-04
+ 73rd-2023-03-11
+ 80th-2023-03-18
+ 77th-2023-03-25
+ 79th-2023-04-01
+ 78th-2023-04-08
+ 81st-2023-04-15
+ 71st-2023-04-22
+ 62nd-2023-04-29
+ 61st-2023-05-06
+ 54th-2023-05-13
+ 60th-2023-05-20
+ 38th-2023-05-27
+ 32nd-2023-06-03
+END SONG<<<
+>>>SONG:
+Boku No Koto
+
+ 91st-2023-01-07
+ 31st-2023-01-21
+ 42nd-2023-01-28
+ 56th-2023-02-04
+ 77th-2023-02-11
+ 73rd-2023-02-18
+ 78th-2023-02-25
+ 74th-2023-03-04
+ 61st-2023-03-11
+ 74th-2023-03-18
+ 82nd-2023-03-25
+ 92nd-2023-04-01
+ 91st-2023-04-08
+ 96th-2023-04-29
+ 92nd-2023-05-06
+ 88th-2023-05-13
+ 95th-2023-05-20
+100th-2023-05-27
+ 95th-2023-06-03
+END SONG<<<
+>>>SONG:
+Bokuno Koto (Orchestra Ver.)
+
+ 93rd-2023-01-21
+END SONG<<<
+>>>SONG:
+Dance Hall
+
+  8th-2023-01-07
+ 10th-2023-01-14
+ 13th-2023-01-21
+ 14th-2023-01-28
+ 16th-2023-02-04
+ 17th-2023-02-11
+ 18th-2023-02-18
+ 17th-2023-02-25
+ 19th-2023-03-04
+ 15th-2023-03-11
+ 19th-2023-03-18
+ 22nd-2023-03-25
+ 19th-2023-04-01
+ 20th-2023-04-08
+ 21st-2023-04-15
+ 24th-2023-04-22
+ 28th-2023-04-29
+ 27th-2023-05-06
+ 25th-2023-05-13
+ 19th-2023-05-20
+ 19th-2023-05-27
+ 17th-2023-06-03
+END SONG<<<
+>>>SONG:
+Inferno
+
+ 99th-2023-04-29
+ 96th-2023-05-06
+ 89th-2023-05-13
+ 97th-2023-05-20
+ 80th-2023-05-27
+ 79th-2023-06-03
+END SONG<<<
+>>>SONG:
+Que Sera Sera
+
+ 10th-2023-05-06
+  8th-2023-05-13
+  4th-2023-05-20
+  6th-2023-05-27
+  9th-2023-06-03
+END SONG<<<
+>>>SONG:
+Soranji
+
+ 22nd-2023-01-07
+ 21st-2023-01-14
+ 21st-2023-01-21
+ 21st-2023-01-28
+ 21st-2023-02-04
+ 24th-2023-02-11
+ 28th-2023-02-18
+ 26th-2023-02-25
+ 31st-2023-03-04
+ 26th-2023-03-11
+ 31st-2023-03-18
+ 32nd-2023-03-25
+ 37th-2023-04-01
+ 36th-2023-04-08
+ 44th-2023-04-15
+ 48th-2023-04-22
+ 48th-2023-04-29
+ 47th-2023-05-06
+ 49th-2023-05-13
+ 47th-2023-05-20
+ 37th-2023-05-27
+ 46th-2023-06-03
+END SONG<<<
+>>>SONG:
+Watashi Wa Saikyou
+
+ 56th-2023-01-07
+ 54th-2023-01-14
+ 51st-2023-01-21
+ 56th-2023-01-28
+ 68th-2023-02-04
+ 81st-2023-02-11
+ 86th-2023-02-18
+ 73rd-2023-02-25
+ 58th-2023-03-04
+ 64th-2023-03-11
+ 77th-2023-03-18
+ 78th-2023-03-25
+ 82nd-2023-04-01
+ 86th-2023-04-08
+ 87th-2023-04-15
+ 87th-2023-04-22
+ 92nd-2023-04-29
+ 98th-2023-05-06
+ 99th-2023-05-13
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Mrs. Green Apple Feat. Sonoko Inoue
+
+>>>SONG:
+Tenbyou No Uta
+
+ 87th-2023-01-07
+ 86th-2023-01-14
+ 81st-2023-01-21
+ 70th-2023-01-28
+ 61st-2023-02-04
+ 73rd-2023-02-11
+ 67th-2023-02-18
+ 66th-2023-02-25
+ 67th-2023-03-04
+ 58th-2023-03-11
+ 62nd-2023-03-18
+ 71st-2023-03-25
+ 74th-2023-04-01
+ 69th-2023-04-08
+ 71st-2023-04-15
+ 68th-2023-04-22
+ 66th-2023-04-29
+ 60th-2023-05-06
+ 60th-2023-05-13
+ 62nd-2023-05-20
+ 58th-2023-05-27
+ 52nd-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Mrs.Green Apple (Feat. Asmi)
+
+>>>SONG:
+Blue Ambience
+
+ 84th-2023-04-15
+ 69th-2023-04-22
+ 71st-2023-04-29
+ 77th-2023-05-06
+ 74th-2023-05-13
+ 79th-2023-05-20
+ 74th-2023-05-27
+ 75th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Mukade, Inman
+
+>>>SONG:
+Kiminomama
+
+ 13th-2023-03-04
+  7th-2023-03-11
+  7th-2023-03-18
+ 10th-2023-03-25
+ 10th-2023-04-01
+  9th-2023-04-08
+  9th-2023-04-15
+ 16th-2023-04-22
+ 12th-2023-04-29
+ 15th-2023-05-06
+ 17th-2023-05-13
+ 16th-2023-05-20
+ 14th-2023-05-27
+ 18th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+My First Story
+
+>>>SONG:
+I&#039;M A Mess
+
+ 96th-2023-04-08
+ 55th-2023-04-15
+ 57th-2023-04-22
+ 52nd-2023-04-29
+ 54th-2023-05-06
+ 48th-2023-05-13
+ 42nd-2023-05-20
+ 26th-2023-05-27
+ 23rd-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Nanabun No Nijyuuni
+
+>>>SONG:
+Boku Ha Konya Deteyuku
+
+  5th-2023-06-03
+END SONG<<<
+>>>SONG:
+Kamisama Datte Kimerarenai
+
+  7th-2023-01-21
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Naniwa Danshi
+
+>>>SONG:
+Special Kiss
+
+  2nd-2023-03-18
+ 34th-2023-03-25
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Natori
+
+>>>SONG:
+Friday Night
+
+ 24th-2023-04-15
+ 28th-2023-04-22
+ 31st-2023-04-29
+ 31st-2023-05-06
+ 41st-2023-05-13
+ 51st-2023-05-20
+ 60th-2023-05-27
+ 55th-2023-06-03
+END SONG<<<
+>>>SONG:
+Overdose
+
+  9th-2023-01-07
+ 12th-2023-01-14
+ 14th-2023-01-21
+ 15th-2023-01-28
+ 18th-2023-02-04
+ 21st-2023-02-11
+ 23rd-2023-02-18
+ 22nd-2023-02-25
+ 25th-2023-03-04
+ 18th-2023-03-11
+  8th-2023-03-18
+  7th-2023-03-25
+ 11th-2023-04-01
+ 10th-2023-04-08
+  8th-2023-04-15
+ 18th-2023-04-22
+ 16th-2023-04-29
+ 17th-2023-05-06
+ 19th-2023-05-13
+ 20th-2023-05-20
+ 23rd-2023-05-27
+ 19th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Nct 127
+
+>>>SONG:
+Ay-Yo
+
+ 92nd-2023-02-11
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Nct Dream
+
+>>>SONG:
+Best Friend Ever
+
+  3rd-2023-02-18
+  9th-2023-02-25
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Newjeans
+
+>>>SONG:
+Ditto
+
+ 18th-2023-01-07
+ 13th-2023-01-14
+ 12th-2023-01-21
+ 11th-2023-01-28
+ 10th-2023-02-04
+ 10th-2023-02-11
+ 12th-2023-02-18
+ 10th-2023-02-25
+ 16th-2023-03-04
+  9th-2023-03-11
+ 12th-2023-03-18
+ 18th-2023-03-25
+ 21st-2023-04-01
+ 23rd-2023-04-08
+ 26th-2023-04-15
+ 34th-2023-04-22
+ 36th-2023-04-29
+ 41st-2023-05-06
+ 44th-2023-05-13
+ 59th-2023-05-20
+ 55th-2023-05-27
+ 67th-2023-06-03
+END SONG<<<
+>>>SONG:
+Hype Boy
+
+ 74th-2023-01-07
+ 64th-2023-01-14
+ 49th-2023-01-21
+ 45th-2023-01-28
+ 41st-2023-02-04
+ 47th-2023-02-11
+ 49th-2023-02-18
+ 50th-2023-02-25
+ 55th-2023-03-04
+ 52nd-2023-03-11
+ 48th-2023-03-18
+ 67th-2023-03-25
+ 76th-2023-04-01
+ 71st-2023-04-08
+ 75th-2023-04-15
+ 81st-2023-04-22
+ 85th-2023-04-29
+END SONG<<<
+>>>SONG:
+Omg
+
+  7th-2023-01-14
+ 20th-2023-01-21
+ 19th-2023-01-28
+ 12th-2023-02-04
+ 18th-2023-02-11
+ 19th-2023-02-18
+ 18th-2023-02-25
+ 17th-2023-03-04
+  8th-2023-03-11
+ 14th-2023-03-18
+ 17th-2023-03-25
+ 16th-2023-04-01
+ 19th-2023-04-08
+ 19th-2023-04-15
+ 30th-2023-04-22
+ 30th-2023-04-29
+ 32nd-2023-05-06
+ 40th-2023-05-13
+ 49th-2023-05-20
+ 46th-2023-05-27
+ 58th-2023-06-03
+END SONG<<<
+>>>SONG:
+Zero
+
+ 58th-2023-04-15
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Ngt48
+
+>>>SONG:
+Wataridori Tachi Ni Sora Ha Mienai
+
+ 12th-2023-01-07
+ 88th-2023-05-06
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Nightcord At 25:00
+
+>>>SONG:
+Lower
+
+ 76th-2023-04-22
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Nishina
+
+>>>SONG:
+Haruichiban
+
+ 93rd-2023-03-11
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Niziu
+
+>>>SONG:
+Blue Moon
+
+ 78th-2023-01-07
+END SONG<<<
+>>>SONG:
+Paradise
+
+ 23rd-2023-03-11
+  1st-2023-03-18
+  6th-2023-03-25
+  8th-2023-04-01
+ 14th-2023-04-08
+ 36th-2023-04-15
+ 47th-2023-04-22
+ 57th-2023-04-29
+ 69th-2023-05-06
+ 73rd-2023-05-13
+ 94th-2023-05-20
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Noa
+
+>>>SONG:
+Burn
+
+ 82nd-2023-05-20
+END SONG<<<
+>>>SONG:
+Purple Sky
+
+ 97th-2023-02-04
+ 48th-2023-02-11
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Nogizaka 46
+
+>>>SONG:
+Hitowayumeonidomiru
+
+ 56th-2023-04-01
+  2nd-2023-04-08
+ 17th-2023-04-15
+ 43rd-2023-04-22
+END SONG<<<
+>>>SONG:
+Koko Ni Ha Nai Mono
+
+ 46th-2023-01-07
+ 68th-2023-01-21
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Not Equal Me
+
+>>>SONG:
+Hanikami Short
+
+ 92nd-2023-01-07
+END SONG<<<
+>>>SONG:
+Tenshi Wa Doko E
+
+ 97th-2023-05-27
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Novelbright
+
+>>>SONG:
+Ai Toka Koi Toka
+
+ 40th-2023-01-07
+ 37th-2023-01-14
+ 40th-2023-01-21
+ 39th-2023-01-28
+ 38th-2023-02-04
+ 43rd-2023-02-11
+ 47th-2023-02-18
+ 43rd-2023-02-25
+ 45th-2023-03-04
+ 44th-2023-03-11
+ 49th-2023-03-18
+ 57th-2023-03-25
+ 58th-2023-04-01
+ 58th-2023-04-08
+ 62nd-2023-04-15
+ 61st-2023-04-22
+ 60th-2023-04-29
+ 65th-2023-05-06
+ 71st-2023-05-13
+ 81st-2023-05-20
+ 77th-2023-05-27
+ 78th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Official Hige Dandism
+
+>>>SONG:
+115 Millon Kilometer Film
+
+ 63rd-2023-01-07
+ 66th-2023-01-14
+ 74th-2023-01-21
+ 72nd-2023-01-28
+ 63rd-2023-02-04
+ 61st-2023-02-11
+ 62nd-2023-02-18
+ 61st-2023-02-25
+ 66th-2023-03-04
+ 60th-2023-03-11
+ 64th-2023-03-18
+ 68th-2023-03-25
+ 72nd-2023-04-01
+ 60th-2023-04-08
+ 76th-2023-04-15
+ 72nd-2023-04-22
+ 75th-2023-04-29
+ 76th-2023-05-06
+ 72nd-2023-05-13
+ 91st-2023-05-20
+ 76th-2023-05-27
+ 94th-2023-06-03
+END SONG<<<
+>>>SONG:
+Cry Baby
+
+ 60th-2023-01-07
+ 65th-2023-01-14
+ 66th-2023-01-21
+ 64th-2023-01-28
+ 67th-2023-02-04
+ 78th-2023-02-11
+ 76th-2023-02-18
+ 70th-2023-02-25
+ 73rd-2023-03-04
+ 74th-2023-03-11
+ 84th-2023-03-18
+ 84th-2023-03-25
+ 85th-2023-04-01
+ 89th-2023-04-08
+ 89th-2023-04-15
+ 92nd-2023-04-22
+ 83rd-2023-04-29
+ 82nd-2023-05-06
+ 80th-2023-05-13
+END SONG<<<
+>>>SONG:
+I Loveâ€¦
+
+ 76th-2023-01-07
+ 75th-2023-01-14
+ 83rd-2023-01-21
+ 86th-2023-01-28
+ 83rd-2023-02-04
+ 86th-2023-02-11
+ 74th-2023-02-18
+ 69th-2023-02-25
+ 85th-2023-03-04
+ 80th-2023-03-11
+ 95th-2023-03-18
+ 87th-2023-03-25
+ 96th-2023-04-01
+ 97th-2023-04-08
+ 93rd-2023-04-15
+ 93rd-2023-04-22
+ 91st-2023-04-29
+ 95th-2023-05-13
+END SONG<<<
+>>>SONG:
+Mixed Nuts
+
+  5th-2023-01-07
+  8th-2023-01-14
+ 10th-2023-01-21
+ 12th-2023-01-28
+ 15th-2023-02-04
+ 13th-2023-02-11
+ 14th-2023-02-18
+ 13th-2023-02-25
+ 14th-2023-03-04
+ 11th-2023-03-11
+ 15th-2023-03-18
+ 21st-2023-03-25
+ 22nd-2023-04-01
+ 16th-2023-04-08
+ 18th-2023-04-15
+ 23rd-2023-04-22
+ 22nd-2023-04-29
+ 26th-2023-05-06
+ 23rd-2023-05-13
+ 29th-2023-05-20
+ 35th-2023-05-27
+ 21st-2023-06-03
+END SONG<<<
+>>>SONG:
+Pretender
+
+ 45th-2023-01-07
+ 45th-2023-01-14
+ 48th-2023-01-21
+ 49th-2023-01-28
+ 47th-2023-02-04
+ 51st-2023-02-11
+ 45th-2023-02-18
+ 46th-2023-02-25
+ 49th-2023-03-04
+ 47th-2023-03-11
+ 51st-2023-03-18
+ 55th-2023-03-25
+ 53rd-2023-04-01
+ 51st-2023-04-08
+ 52nd-2023-04-15
+ 58th-2023-04-22
+ 56th-2023-04-29
+ 57th-2023-05-06
+ 61st-2023-05-13
+ 73rd-2023-05-20
+ 67th-2023-05-27
+ 66th-2023-06-03
+END SONG<<<
+>>>SONG:
+Subtitle
+
+  1st-2023-01-07
+  1st-2023-01-14
+  1st-2023-01-21
+  1st-2023-01-28
+  2nd-2023-02-04
+  2nd-2023-02-11
+  2nd-2023-02-18
+  3rd-2023-02-25
+  2nd-2023-03-04
+  1st-2023-03-11
+  3rd-2023-03-18
+  4th-2023-03-25
+  3rd-2023-04-01
+  3rd-2023-04-08
+  3rd-2023-04-15
+  7th-2023-04-22
+  6th-2023-04-29
+  9th-2023-05-06
+  9th-2023-05-13
+  9th-2023-05-20
+  9th-2023-05-27
+  8th-2023-06-03
+END SONG<<<
+>>>SONG:
+Tattoo
+
+ 18th-2023-04-29
+  6th-2023-05-06
+ 10th-2023-05-13
+  7th-2023-05-20
+  7th-2023-05-27
+  6th-2023-06-03
+END SONG<<<
+>>>SONG:
+White Noise
+
+  5th-2023-01-21
+  5th-2023-01-28
+  7th-2023-02-04
+  7th-2023-02-11
+  8th-2023-02-18
+ 14th-2023-02-25
+ 20th-2023-03-04
+ 20th-2023-03-11
+ 22nd-2023-03-18
+ 26th-2023-03-25
+ 33rd-2023-04-01
+ 34th-2023-04-08
+ 41st-2023-04-15
+ 46th-2023-04-22
+ 51st-2023-04-29
+ 55th-2023-05-06
+ 64th-2023-05-13
+ 74th-2023-05-20
+ 92nd-2023-05-27
+ 74th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+One N&#039; Only
+
+>>>SONG:
+We&#039;Ll Rise Again
+
+ 35th-2023-03-18
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+People 1
+
+>>>SONG:
+Dogland
+
+ 61st-2023-01-07
+ 63rd-2023-01-14
+ 71st-2023-01-21
+ 83rd-2023-01-28
+ 98th-2023-02-04
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Pornograffitti
+
+>>>SONG:
+Saudade
+
+ 94th-2023-01-07
+ 94th-2023-01-21
+ 99th-2023-04-15
+100th-2023-05-13
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Psychic Fever From Exile Tribe
+
+>>>SONG:
+Baku Baku
+
+ 93rd-2023-04-29
+END SONG<<<
+>>>SONG:
+Rich &Amp; Bad
+
+ 96th-2023-01-21
+ 80th-2023-01-28
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Pure White Canvas
+
+>>>SONG:
+Bocchi
+
+ 96th-2023-03-11
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Queen Bee
+
+>>>SONG:
+Mephisto
+
+ 74th-2023-05-06
+ 85th-2023-05-13
+ 76th-2023-05-20
+ 43rd-2023-05-27
+ 28th-2023-06-03
+END SONG<<<
+>>>SONG:
+Violence
+
+ 86th-2023-01-07
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Radwimps
+
+>>>SONG:
+Kanata Haruka
+
+ 38th-2023-01-07
+ 38th-2023-01-14
+ 41st-2023-01-21
+ 51st-2023-01-28
+ 50th-2023-02-04
+ 68th-2023-02-11
+ 79th-2023-02-18
+ 93rd-2023-02-25
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Radwimps Featuring Toaka
+
+>>>SONG:
+Suzume
+
+ 39th-2023-01-07
+ 41st-2023-01-14
+ 47th-2023-01-21
+ 67th-2023-01-28
+ 80th-2023-02-04
+ 94th-2023-02-11
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Remioromen
+
+>>>SONG:
+Sangatsu Kokonoka
+
+ 53rd-2023-03-11
+ 16th-2023-03-18
+ 42nd-2023-03-25
+ 68th-2023-04-01
+ 90th-2023-04-08
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Ringo Sheena
+
+>>>SONG:
+Marunouchi Sadistic
+
+ 98th-2023-02-25
+ 97th-2023-03-04
+ 90th-2023-03-11
+ 96th-2023-03-25
+ 88th-2023-04-01
+ 99th-2023-04-08
+ 93rd-2023-05-13
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Roselia
+
+>>>SONG:
+Throne Of Rose
+
+ 64th-2023-05-06
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Ryokuoushoku Shakai
+
+>>>SONG:
+Mela!
+
+ 49th-2023-01-07
+ 43rd-2023-01-14
+ 61st-2023-01-21
+ 81st-2023-01-28
+ 66th-2023-02-04
+ 69th-2023-02-11
+ 57th-2023-02-18
+ 62nd-2023-02-25
+ 69th-2023-03-04
+ 63rd-2023-03-11
+ 70th-2023-03-18
+ 74th-2023-03-25
+ 66th-2023-04-01
+ 67th-2023-04-08
+ 73rd-2023-04-15
+ 90th-2023-04-22
+ 84th-2023-04-29
+ 86th-2023-05-06
+ 77th-2023-05-13
+ 83rd-2023-05-20
+ 83rd-2023-05-27
+ 87th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Ryuichi Sakamoto
+
+>>>SONG:
+Merry Christmas Mr.Lawrence
+
+ 90th-2023-04-15
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Sakurazaka 46
+
+>>>SONG:
+Sakura Zuki
+
+ 43rd-2023-02-18
+  2nd-2023-02-25
+ 26th-2023-03-04
+ 78th-2023-03-11
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Sato Masaki
+
+>>>SONG:
+Ding Dong
+
+ 42nd-2023-04-08
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Saucy Dog
+
+>>>SONG:
+Cinderella Boy
+
+ 13th-2023-01-07
+ 11th-2023-01-14
+ 17th-2023-01-21
+ 17th-2023-01-28
+ 17th-2023-02-04
+ 19th-2023-02-11
+ 20th-2023-02-18
+ 19th-2023-02-25
+ 18th-2023-03-04
+ 13th-2023-03-11
+ 17th-2023-03-18
+ 20th-2023-03-25
+ 18th-2023-04-01
+ 15th-2023-04-08
+ 15th-2023-04-15
+ 20th-2023-04-22
+ 23rd-2023-04-29
+ 22nd-2023-05-06
+ 24th-2023-05-13
+ 23rd-2023-05-20
+ 24th-2023-05-27
+ 24th-2023-06-03
+END SONG<<<
+>>>SONG:
+Itsuka
+
+ 77th-2023-01-07
+ 68th-2023-01-14
+ 72nd-2023-01-21
+ 79th-2023-01-28
+ 71st-2023-02-04
+ 76th-2023-02-11
+ 80th-2023-02-18
+ 80th-2023-02-25
+ 80th-2023-03-04
+ 76th-2023-03-11
+ 88th-2023-03-18
+ 86th-2023-03-25
+ 84th-2023-04-01
+ 95th-2023-04-08
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Say Yes
+
+>>>SONG:
+Say My Name
+
+ 77th-2023-04-22
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Sekai No Owari
+
+>>>SONG:
+Habit
+
+  4th-2023-01-07
+  5th-2023-01-14
+  9th-2023-01-21
+  9th-2023-01-28
+ 13th-2023-02-04
+ 14th-2023-02-11
+ 15th-2023-02-18
+ 16th-2023-02-25
+ 22nd-2023-03-04
+ 22nd-2023-03-11
+ 24th-2023-03-18
+ 29th-2023-03-25
+ 30th-2023-04-01
+ 29th-2023-04-08
+ 30th-2023-04-15
+ 39th-2023-04-22
+ 40th-2023-04-29
+ 38th-2023-05-06
+ 36th-2023-05-13
+ 53rd-2023-05-20
+ 53rd-2023-05-27
+ 44th-2023-06-03
+END SONG<<<
+>>>SONG:
+Saraba
+
+ 64th-2023-04-29
+ 73rd-2023-05-06
+ 99th-2023-05-27
+END SONG<<<
+>>>SONG:
+Turquoise
+
+ 91st-2023-05-27
+ 96th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Seventeen
+
+>>>SONG:
+Super
+
+  7th-2023-05-06
+ 21st-2023-05-13
+ 31st-2023-05-20
+ 32nd-2023-05-27
+ 48th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Sexy Zone
+
+>>>SONG:
+Cream
+
+  5th-2023-05-13
+ 90th-2023-05-20
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Shena Ringo
+
+>>>SONG:
+Je Suis Libre
+
+ 81st-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Shingo Katori, Seventeen
+
+>>>SONG:
+Betting
+
+ 31st-2023-01-28
+ 63rd-2023-03-25
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Shiritsu Ebisu Chugaku
+
+>>>SONG:
+Kyo-Do?
+
+ 13th-2023-05-13
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Sixtones
+
+>>>SONG:
+Abarero
+
+  3rd-2023-04-22
+ 34th-2023-04-29
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Snow Man
+
+>>>SONG:
+Ai No Kotoba
+
+ 44th-2023-05-27
+END SONG<<<
+>>>SONG:
+Brother Beat
+
+ 76th-2023-01-14
+END SONG<<<
+>>>SONG:
+Slowâ€¦
+
+ 91st-2023-05-13
+END SONG<<<
+>>>SONG:
+Tapestry
+
+ 60th-2023-02-25
+ 51st-2023-03-04
+ 83rd-2023-03-11
+ 90th-2023-03-18
+  1st-2023-03-25
+  5th-2023-04-01
+ 31st-2023-04-08
+ 53rd-2023-04-15
+ 63rd-2023-04-22
+ 98th-2023-04-29
+END SONG<<<
+>>>SONG:
+W
+
+ 99th-2023-03-11
+ 78th-2023-03-18
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Spitz
+
+>>>SONG:
+Cherry
+
+100th-2023-04-01
+ 97th-2023-05-13
+ 86th-2023-05-27
+END SONG<<<
+>>>SONG:
+Tokimeki Part1
+
+ 59th-2023-05-27
+ 76th-2023-06-03
+END SONG<<<
+>>>SONG:
+Utsukushii Hire
+
+  2nd-2023-04-22
+  3rd-2023-04-29
+  4th-2023-05-06
+  4th-2023-05-13
+  2nd-2023-05-20
+  2nd-2023-05-27
+  3rd-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Stayc
+
+>>>SONG:
+Teddy Bear (Japanese Version)
+
+ 45th-2023-04-15
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Stray Kids
+
+>>>SONG:
+Case 143
+
+ 35th-2023-01-07
+ 67th-2023-01-14
+ 73rd-2023-01-21
+ 75th-2023-01-28
+ 46th-2023-02-04
+ 65th-2023-02-11
+ 78th-2023-02-18
+ 79th-2023-02-25
+ 64th-2023-03-04
+ 40th-2023-03-11
+ 37th-2023-03-18
+ 48th-2023-03-25
+ 55th-2023-04-01
+ 83rd-2023-04-08
+ 92nd-2023-04-15
+END SONG<<<
+>>>SONG:
+The Sound
+
+ 34th-2023-02-11
+ 96th-2023-02-18
+END SONG<<<
+>>>SONG:
+There
+
+ 54th-2023-03-25
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Stu48
+
+>>>SONG:
+Iki Wo Suru Kokoro
+
+  2nd-2023-03-25
+ 94th-2023-04-22
+ 75th-2023-05-20
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Sugimoto Takuya
+
+>>>SONG:
+Onigiri
+
+ 55th-2023-03-18
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Suglawd Familiar, Chico Carlito,Awich
+
+>>>SONG:
+Longiness Remix
+
+ 94th-2023-04-01
+ 93rd-2023-04-08
+ 94th-2023-04-15
+ 97th-2023-04-29
+ 81st-2023-05-06
+ 86th-2023-05-13
+ 99th-2023-05-20
+ 72nd-2023-05-27
+ 85th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Super Beaver
+
+>>>SONG:
+Gradation
+
+ 32nd-2023-04-29
+ 70th-2023-05-06
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Taeyang Featuring Jimin
+
+>>>SONG:
+Vibe
+
+ 35th-2023-01-21
+ 32nd-2023-01-28
+ 75th-2023-02-04
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Tani Yuuki
+
+>>>SONG:
+Mou Ichido
+
+ 29th-2023-01-07
+ 32nd-2023-01-14
+ 33rd-2023-01-21
+ 37th-2023-01-28
+ 34th-2023-02-04
+ 40th-2023-02-11
+ 46th-2023-02-18
+ 49th-2023-02-25
+ 52nd-2023-03-04
+ 46th-2023-03-11
+ 59th-2023-03-18
+ 65th-2023-03-25
+ 67th-2023-04-01
+ 68th-2023-04-08
+ 77th-2023-04-15
+ 79th-2023-04-22
+ 79th-2023-04-29
+100th-2023-05-06
+END SONG<<<
+>>>SONG:
+W / X / Y
+
+  7th-2023-01-07
+  9th-2023-01-14
+ 11th-2023-01-21
+ 10th-2023-01-28
+ 11th-2023-02-04
+ 12th-2023-02-11
+ 10th-2023-02-18
+  8th-2023-02-25
+ 10th-2023-03-04
+  6th-2023-03-11
+ 10th-2023-03-18
+ 14th-2023-03-25
+ 13th-2023-04-01
+ 11th-2023-04-08
+ 11th-2023-04-15
+ 19th-2023-04-22
+ 14th-2023-04-29
+ 16th-2023-05-06
+ 18th-2023-05-13
+ 21st-2023-05-20
+ 17th-2023-05-27
+ 16th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Team48
+
+>>>SONG:
+Bye Bye, Matane
+
+ 74th-2023-04-08
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+The Alfee
+
+>>>SONG:
+Hagane No Kishi Q
+
+ 31st-2023-05-27
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+The Rampage From Exile Tribe
+
+>>>SONG:
+16Boosterz
+
+ 60th-2023-04-22
+ 68th-2023-04-29
+  2nd-2023-05-13
+END SONG<<<
+>>>SONG:
+No Gravity
+
+ 39th-2023-02-18
+ 42nd-2023-02-25
+ 35th-2023-03-04
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+The Super Fruit
+
+>>>SONG:
+Sakura Furefure
+
+ 26th-2023-04-01
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Tohoshinki
+
+>>>SONG:
+Parallel Parallel
+
+ 35th-2023-02-11
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Tokyo Ska Paradise Orchestra Feat. Haruko Nagaya &Amp; Ryokuoushoku Shakai
+
+>>>SONG:
+Etude Of Adolescence
+
+ 25th-2023-03-18
+ 40th-2023-03-25
+ 99th-2023-04-01
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Tomorrow X Together
+
+>>>SONG:
+Sugar Rush Ride
+
+ 27th-2023-02-11
+ 64th-2023-02-18
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Tonun
+
+>>>SONG:
+Friday Night
+
+ 70th-2023-02-18
+ 45th-2023-02-25
+ 61st-2023-03-04
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Tota
+
+>>>SONG:
+Tsumugu
+
+ 97th-2023-02-11
+ 75th-2023-02-18
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Travis Japan
+
+>>>SONG:
+Moving Pieces
+
+  3rd-2023-05-27
+100th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Treasure
+
+>>>SONG:
+Here I Stand
+
+ 20th-2023-02-11
+ 35th-2023-02-18
+  1st-2023-04-08
+ 27th-2023-04-15
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Tsubaki Factory
+
+>>>SONG:
+Machigai Janai Naitari Shinai
+
+  3rd-2023-03-04
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Twice
+
+>>>SONG:
+Celebrate
+
+ 96th-2023-01-14
+ 98th-2023-01-21
+END SONG<<<
+>>>SONG:
+Hare Hare
+
+ 93rd-2023-05-20
+ 25th-2023-05-27
+ 69th-2023-06-03
+END SONG<<<
+>>>SONG:
+Moonlight Sunrise
+
+ 20th-2023-01-28
+  5th-2023-02-04
+ 15th-2023-02-11
+ 26th-2023-02-18
+ 32nd-2023-02-25
+ 39th-2023-03-04
+ 42nd-2023-03-11
+ 33rd-2023-03-18
+ 33rd-2023-03-25
+ 43rd-2023-04-01
+ 54th-2023-04-08
+ 72nd-2023-04-15
+ 91st-2023-04-22
+END SONG<<<
+>>>SONG:
+Set Me Free
+
+ 73rd-2023-03-18
+ 16th-2023-03-25
+ 31st-2023-04-01
+ 35th-2023-04-08
+ 42nd-2023-04-15
+ 54th-2023-04-22
+ 67th-2023-04-29
+ 79th-2023-05-06
+ 90th-2023-05-13
+ 98th-2023-05-20
+ 89th-2023-05-27
+ 90th-2023-06-03
+END SONG<<<
+>>>SONG:
+Talk That Talk
+
+ 97th-2023-01-07
+ 79th-2023-01-14
+ 90th-2023-01-21
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Uru
+
+>>>SONG:
+Kokoroe
+
+ 32nd-2023-05-13
+ 58th-2023-05-20
+ 49th-2023-05-27
+ 57th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Utada Hikaru
+
+>>>SONG:
+First Love
+
+ 10th-2023-01-07
+ 17th-2023-01-14
+ 19th-2023-01-21
+ 18th-2023-01-28
+ 20th-2023-02-04
+ 30th-2023-02-11
+ 30th-2023-02-18
+ 25th-2023-02-25
+ 32nd-2023-03-04
+ 29th-2023-03-11
+ 42nd-2023-03-18
+ 59th-2023-03-25
+ 65th-2023-04-01
+ 70th-2023-04-08
+ 68th-2023-04-15
+ 85th-2023-04-22
+ 82nd-2023-04-29
+ 94th-2023-05-06
+ 92nd-2023-05-13
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Vaundy
+
+>>>SONG:
+Chainsaw Blood
+
+ 66th-2023-01-07
+ 42nd-2023-01-14
+ 42nd-2023-01-21
+ 53rd-2023-01-28
+ 59th-2023-02-04
+ 79th-2023-02-11
+ 90th-2023-02-18
+ 95th-2023-02-25
+END SONG<<<
+>>>SONG:
+Fukakouryoku
+
+ 46th-2023-01-14
+ 46th-2023-01-21
+ 46th-2023-01-28
+ 44th-2023-02-04
+ 52nd-2023-02-11
+ 53rd-2023-02-18
+ 54th-2023-02-25
+ 59th-2023-03-04
+ 54th-2023-03-11
+ 60th-2023-03-18
+ 64th-2023-03-25
+ 63rd-2023-04-01
+ 61st-2023-04-08
+ 64th-2023-04-15
+ 64th-2023-04-22
+ 72nd-2023-04-29
+ 71st-2023-05-06
+ 67th-2023-05-13
+ 80th-2023-05-20
+ 81st-2023-05-27
+ 80th-2023-06-03
+END SONG<<<
+>>>SONG:
+Hana Uranai
+
+ 95th-2023-01-14
+100th-2023-01-21
+ 99th-2023-01-28
+END SONG<<<
+>>>SONG:
+Kaiju No Hanauta
+
+ 27th-2023-01-07
+  3rd-2023-01-14
+  4th-2023-01-21
+  4th-2023-01-28
+  4th-2023-02-04
+  5th-2023-02-11
+  5th-2023-02-18
+  4th-2023-02-25
+  5th-2023-03-04
+  2nd-2023-03-11
+  4th-2023-03-18
+  5th-2023-03-25
+  4th-2023-04-01
+  4th-2023-04-08
+  4th-2023-04-15
+  8th-2023-04-22
+  7th-2023-04-29
+  8th-2023-05-06
+  6th-2023-05-13
+  6th-2023-05-20
+  5th-2023-05-27
+  4th-2023-06-03
+END SONG<<<
+>>>SONG:
+Koi Kaze Ni Nosete
+
+ 97th-2023-01-14
+ 99th-2023-01-21
+END SONG<<<
+>>>SONG:
+Mabuta
+
+ 59th-2023-01-21
+ 29th-2023-01-28
+ 35th-2023-02-04
+ 50th-2023-02-11
+ 55th-2023-02-18
+ 56th-2023-02-25
+ 65th-2023-03-04
+ 66th-2023-03-11
+ 82nd-2023-03-18
+ 95th-2023-03-25
+END SONG<<<
+>>>SONG:
+Napori
+
+ 72nd-2023-01-14
+ 85th-2023-01-21
+ 95th-2023-01-28
+ 86th-2023-02-04
+ 93rd-2023-02-11
+ 99th-2023-02-25
+END SONG<<<
+>>>SONG:
+Odoriko
+
+ 62nd-2023-01-07
+ 30th-2023-01-14
+ 32nd-2023-01-21
+ 38th-2023-01-28
+ 36th-2023-02-04
+ 42nd-2023-02-11
+ 48th-2023-02-18
+ 48th-2023-02-25
+ 50th-2023-03-04
+ 48th-2023-03-11
+ 54th-2023-03-18
+ 58th-2023-03-25
+ 60th-2023-04-01
+ 55th-2023-04-08
+ 60th-2023-04-15
+ 62nd-2023-04-22
+ 61st-2023-04-29
+ 62nd-2023-05-06
+ 65th-2023-05-13
+ 77th-2023-05-20
+ 85th-2023-05-27
+ 65th-2023-06-03
+END SONG<<<
+>>>SONG:
+Sonna Bitter Na Hanashi
+
+ 37th-2023-03-25
+ 24th-2023-04-01
+ 24th-2023-04-08
+ 22nd-2023-04-15
+ 27th-2023-04-22
+ 27th-2023-04-29
+ 28th-2023-05-06
+ 31st-2023-05-13
+ 24th-2023-05-20
+ 20th-2023-05-27
+ 22nd-2023-06-03
+END SONG<<<
+>>>SONG:
+Tokimeki
+
+ 96th-2023-04-15
+END SONG<<<
+>>>SONG:
+Tokyo Flash
+
+ 80th-2023-01-14
+ 84th-2023-01-21
+ 92nd-2023-01-28
+100th-2023-02-04
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Wa-Suta
+
+>>>SONG:
+Suman.Inu.
+
+ 88th-2023-03-04
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Wacci
+
+>>>SONG:
+Koi Daro
+
+ 36th-2023-01-07
+ 40th-2023-01-14
+ 37th-2023-01-21
+ 50th-2023-01-28
+ 48th-2023-02-04
+ 46th-2023-02-11
+ 54th-2023-02-18
+ 53rd-2023-02-25
+ 60th-2023-03-04
+ 56th-2023-03-11
+ 65th-2023-03-18
+ 72nd-2023-03-25
+ 77th-2023-04-01
+ 77th-2023-04-08
+ 85th-2023-04-15
+ 97th-2023-04-22
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Watwing
+
+>>>SONG:
+The Practice Of Love
+
+ 60th-2023-01-21
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Wednesday Campanella
+
+>>>SONG:
+Edison
+
+ 58th-2023-01-07
+ 83rd-2023-01-14
+ 95th-2023-01-21
+ 78th-2023-02-04
+ 74th-2023-02-11
+ 84th-2023-02-18
+ 81st-2023-02-25
+ 98th-2023-03-04
+ 86th-2023-03-11
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Wonderlands * Showtime
+
+>>>SONG:
+Tondemo Wanders
+
+ 89th-2023-02-25
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Xg
+
+>>>SONG:
+Shooting Star
+
+ 27th-2023-02-04
+ 26th-2023-02-11
+ 33rd-2023-02-18
+ 38th-2023-02-25
+ 42nd-2023-03-04
+ 39th-2023-03-11
+ 56th-2023-03-18
+ 80th-2023-03-25
+ 81st-2023-04-01
+ 87th-2023-04-08
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Yama
+
+>>>SONG:
+Shikisai
+
+ 44th-2023-01-07
+ 49th-2023-01-14
+ 50th-2023-01-21
+ 63rd-2023-01-28
+ 74th-2023-02-04
+ 82nd-2023-02-11
+ 99th-2023-02-18
+END SONG<<<
+>>>SONG:
+Slash
+
+ 26th-2023-04-22
+ 43rd-2023-04-29
+ 58th-2023-05-06
+ 66th-2023-05-13
+ 46th-2023-05-20
+ 82nd-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Yangskinny
+
+>>>SONG:
+Hontouwane
+
+ 71st-2023-01-07
+ 62nd-2023-01-14
+ 57th-2023-01-21
+ 62nd-2023-01-28
+ 53rd-2023-02-04
+ 55th-2023-02-11
+ 51st-2023-02-18
+ 51st-2023-02-25
+ 53rd-2023-03-04
+ 51st-2023-03-11
+ 57th-2023-03-18
+ 61st-2023-03-25
+ 54th-2023-04-01
+ 45th-2023-04-08
+ 70th-2023-04-15
+ 73rd-2023-04-22
+ 76th-2023-04-29
+ 63rd-2023-05-06
+ 79th-2023-05-13
+ 96th-2023-05-20
+ 95th-2023-05-27
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Yoasobi
+
+>>>SONG:
+Gunjou
+
+ 53rd-2023-01-07
+ 48th-2023-01-14
+ 45th-2023-01-21
+ 52nd-2023-01-28
+ 25th-2023-02-04
+ 54th-2023-02-11
+ 52nd-2023-02-18
+ 52nd-2023-02-25
+ 46th-2023-03-04
+ 43rd-2023-03-11
+ 46th-2023-03-18
+ 47th-2023-03-25
+ 49th-2023-04-01
+ 41st-2023-04-08
+ 47th-2023-04-15
+ 50th-2023-04-22
+ 44th-2023-04-29
+ 40th-2023-05-06
+ 39th-2023-05-13
+ 48th-2023-05-20
+ 47th-2023-05-27
+ 37th-2023-06-03
+END SONG<<<
+>>>SONG:
+Idol
+
+  1st-2023-04-22
+  1st-2023-04-29
+  1st-2023-05-06
+  1st-2023-05-13
+  1st-2023-05-20
+  1st-2023-05-27
+  1st-2023-06-03
+END SONG<<<
+>>>SONG:
+Monster
+
+ 81st-2023-01-07
+ 82nd-2023-01-14
+ 91st-2023-01-21
+ 96th-2023-01-28
+ 95th-2023-02-11
+ 95th-2023-02-18
+ 92nd-2023-02-25
+ 93rd-2023-03-04
+ 88th-2023-03-11
+100th-2023-03-18
+ 90th-2023-03-25
+ 87th-2023-04-01
+ 80th-2023-04-08
+ 83rd-2023-04-15
+ 74th-2023-04-22
+ 65th-2023-04-29
+ 56th-2023-05-06
+ 58th-2023-05-13
+ 69th-2023-05-20
+ 63rd-2023-05-27
+ 62nd-2023-06-03
+END SONG<<<
+>>>SONG:
+Seventeen
+
+ 21st-2023-04-08
+ 25th-2023-04-15
+ 35th-2023-04-22
+ 49th-2023-04-29
+ 49th-2023-05-06
+ 63rd-2023-05-13
+ 33rd-2023-05-20
+ 66th-2023-05-27
+ 51st-2023-06-03
+END SONG<<<
+>>>SONG:
+The Blessing
+
+ 17th-2023-01-07
+ 18th-2023-01-14
+ 16th-2023-01-21
+ 16th-2023-01-28
+ 19th-2023-02-04
+ 22nd-2023-02-11
+ 24th-2023-02-18
+ 24th-2023-02-25
+ 30th-2023-03-04
+ 28th-2023-03-11
+ 32nd-2023-03-18
+ 31st-2023-03-25
+ 35th-2023-04-01
+ 30th-2023-04-08
+ 32nd-2023-04-15
+ 32nd-2023-04-22
+ 29th-2023-04-29
+ 25th-2023-05-06
+ 33rd-2023-05-13
+ 36th-2023-05-20
+ 39th-2023-05-27
+ 31st-2023-06-03
+END SONG<<<
+>>>SONG:
+Yoru Ni Kakeru
+
+ 48th-2023-01-07
+ 51st-2023-01-14
+ 52nd-2023-01-21
+ 57th-2023-01-28
+ 52nd-2023-02-04
+ 56th-2023-02-11
+ 56th-2023-02-18
+ 57th-2023-02-25
+ 54th-2023-03-04
+ 49th-2023-03-11
+ 50th-2023-03-18
+ 51st-2023-03-25
+ 48th-2023-04-01
+ 46th-2023-04-08
+ 48th-2023-04-15
+ 51st-2023-04-22
+ 46th-2023-04-29
+ 44th-2023-05-06
+ 42nd-2023-05-13
+ 57th-2023-05-20
+ 48th-2023-05-27
+ 47th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Yoga Yo Nara!!!
+
+>>>SONG:
+Uo!Sao!
+
+ 34th-2023-04-01
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Yonezu Kenshi
+
+>>>SONG:
+Lady
+
+  2nd-2023-04-01
+  7th-2023-04-08
+  5th-2023-04-15
+  9th-2023-04-22
+ 15th-2023-04-29
+ 19th-2023-05-06
+ 27th-2023-05-13
+ 41st-2023-05-20
+ 51st-2023-05-27
+ 36th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Yorushika
+
+>>>SONG:
+Algernon
+
+ 16th-2023-02-18
+ 20th-2023-02-25
+ 24th-2023-03-04
+ 25th-2023-03-11
+ 30th-2023-03-18
+ 27th-2023-03-25
+ 27th-2023-04-01
+ 26th-2023-04-08
+ 34th-2023-04-15
+ 45th-2023-04-22
+ 58th-2023-04-29
+ 75th-2023-05-06
+ 94th-2023-05-13
+END SONG<<<
+>>>SONG:
+Haru Dorobou
+
+ 89th-2023-02-18
+ 88th-2023-02-25
+ 89th-2023-03-04
+ 59th-2023-03-11
+ 53rd-2023-03-18
+ 52nd-2023-03-25
+ 38th-2023-04-01
+ 37th-2023-04-08
+ 43rd-2023-04-15
+ 59th-2023-04-22
+ 73rd-2023-04-29
+ 97th-2023-05-06
+END SONG<<<
+>>>SONG:
+Miyakoochi
+
+ 91st-2023-04-15
+ 98th-2023-04-22
+END SONG<<<
+>>>SONG:
+Setting Sun
+
+ 30th-2023-05-20
+ 56th-2023-05-27
+ 73rd-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Yu-Ka
+
+>>>SONG:
+Hoshizukiyo
+
+  9th-2023-02-18
+  7th-2023-02-25
+  9th-2023-03-04
+  5th-2023-03-11
+  9th-2023-03-18
+ 11th-2023-03-25
+ 20th-2023-04-01
+ 25th-2023-04-08
+ 33rd-2023-04-15
+ 40th-2023-04-22
+ 41st-2023-04-29
+ 46th-2023-05-06
+ 57th-2023-05-13
+ 65th-2023-05-20
+ 88th-2023-05-27
+ 84th-2023-06-03
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Yuma
+
+>>>SONG:
+Curtain
+
+ 11th-2023-05-13
+ 25th-2023-05-20
+ 82nd-2023-05-27
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Yuuri
+
+>>>SONG:
+Betelgeuse
+
+ 23rd-2023-01-07
+ 25th-2023-01-14
+ 30th-2023-01-21
+ 28th-2023-01-28
+ 28th-2023-02-04
+ 31st-2023-02-11
+ 34th-2023-02-18
+ 28th-2023-02-25
+ 29th-2023-03-04
+ 24th-2023-03-11
+ 27th-2023-03-18
+ 28th-2023-03-25
+ 29th-2023-04-01
+ 27th-2023-04-08
+ 28th-2023-04-15
+ 33rd-2023-04-22
+ 33rd-2023-04-29
+ 30th-2023-05-06
+ 35th-2023-05-13
+ 44th-2023-05-20
+ 41st-2023-05-27
+ 39th-2023-06-03
+END SONG<<<
+>>>SONG:
+Billimillion
+
+ 47th-2023-01-28
+ 26th-2023-02-04
+ 37th-2023-02-11
+ 40th-2023-02-18
+ 27th-2023-02-25
+ 28th-2023-03-04
+ 17th-2023-03-11
+ 20th-2023-03-18
+ 23rd-2023-03-25
+ 15th-2023-04-01
+  8th-2023-04-08
+  6th-2023-04-15
+ 11th-2023-04-22
+  9th-2023-04-29
+ 11th-2023-05-06
+ 15th-2023-05-13
+ 15th-2023-05-20
+ 15th-2023-05-27
+ 14th-2023-06-03
+END SONG<<<
+>>>SONG:
+Christmas Eve
+
+ 43rd-2023-01-07
+END SONG<<<
+>>>SONG:
+Dried Flower
+
+ 21st-2023-01-07
+ 24th-2023-01-14
+ 25th-2023-01-21
+ 25th-2023-01-28
+ 23rd-2023-02-04
+ 25th-2023-02-11
+ 27th-2023-02-18
+ 23rd-2023-02-25
+ 21st-2023-03-04
+ 19th-2023-03-11
+ 23rd-2023-03-18
+ 24th-2023-03-25
+ 25th-2023-04-01
+ 18th-2023-04-08
+ 16th-2023-04-15
+ 22nd-2023-04-22
+ 21st-2023-04-29
+ 20th-2023-05-06
+ 26th-2023-05-13
+ 27th-2023-05-20
+ 29th-2023-05-27
+ 29th-2023-06-03
+END SONG<<<
+>>>SONG:
+Leo
+
+ 69th-2023-01-07
+ 73rd-2023-01-14
+ 76th-2023-01-21
+ 65th-2023-01-28
+ 54th-2023-02-04
+ 59th-2023-02-11
+ 63rd-2023-02-18
+ 59th-2023-02-25
+ 63rd-2023-03-04
+ 55th-2023-03-11
+ 63rd-2023-03-18
+ 70th-2023-03-25
+ 70th-2023-04-01
+ 62nd-2023-04-08
+ 66th-2023-04-15
+ 67th-2023-04-22
+ 69th-2023-04-29
+ 68th-2023-05-06
+ 70th-2023-05-13
+ 84th-2023-05-20
+ 78th-2023-05-27
+ 77th-2023-06-03
+END SONG<<<
+>>>SONG:
+Merry Go Round
+
+ 37th-2023-01-07
+ 53rd-2023-01-14
+ 67th-2023-01-21
+ 73rd-2023-01-28
+ 81st-2023-02-04
+END SONG<<<
+>>>SONG:
+Shutter
+
+ 82nd-2023-01-07
+ 81st-2023-01-14
+ 96th-2023-02-04
+ 99th-2023-02-11
+ 91st-2023-02-25
+ 87th-2023-03-04
+ 79th-2023-03-11
+ 91st-2023-03-18
+ 91st-2023-03-25
+ 93rd-2023-04-01
+ 79th-2023-04-08
+ 86th-2023-04-15
+ 96th-2023-04-22
+ 95th-2023-04-29
+END SONG<<<
+>>>SONG:
+The Day We Become Eternal Love, Not Lovers
+
+ 41st-2023-02-25
+ 44th-2023-03-04
+ 38th-2023-03-11
+ 40th-2023-03-18
+ 60th-2023-03-25
+ 64th-2023-04-01
+ 65th-2023-04-08
+ 74th-2023-04-15
+ 75th-2023-04-22
+ 94th-2023-04-29
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Zutomayo
+
+>>>SONG:
+Intrusion
+
+ 90th-2023-05-27
+END SONG<<<
+>>>SONG:
+Kira Killer
+
+ 33rd-2023-01-07
+ 44th-2023-01-14
+ 63rd-2023-01-21
+ 78th-2023-01-28
+ 87th-2023-02-04
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+Zutto Mayonaka De Iinoni
+
+>>>SONG:
+Zanki
+
+ 79th-2023-01-07
+ 91st-2023-01-14
+END SONG<<<
+END ARTIST<<<
+>>>ARTIST:
+[Alexandros]
+
+>>>SONG:
+Adventure
+
+ 30th-2023-02-25
+ 34th-2023-03-04
+ 37th-2023-03-11
+ 45th-2023-03-18
+ 41st-2023-03-25
+ 47th-2023-04-01
+ 50th-2023-04-08
+ 65th-2023-04-15
+ 78th-2023-04-22
+ 80th-2023-04-29
+ 87th-2023-05-06
+ 78th-2023-05-13
+ 89th-2023-05-20
+ 92nd-2023-06-03
+END SONG<<<
+END ARTIST<<<

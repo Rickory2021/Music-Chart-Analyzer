@@ -1,0 +1,100 @@
+1:::Blue:::NEWS
+2:::Sign:::Jejung
+3:::Lemon:::Kenshi Yonezu
+4:::U.S.A.:::DA PUMP
+5:::Life Is Beautiful:::BiSH
+6:::Hatsukoi:::Hikaru Utada
+7:::Cinderella Girl:::King &amp; Prince
+8:::Tatakau Senshi Tachi He Ai Wo Komete:::Southern All Stars
+9:::Hop?Step?Waai!:::Aqours
+10:::Loser:::Kenshi Yonezu
+11:::Uchiage Hanabi:::Daoko X Kehshi Yonezu
+12:::Summer Night:::100%
+13:::I Want You Back:::TWICE
+14:::Ddu-du Ddu-du:::BLACKPINK
+15:::Katarushisuto:::RADWIMPS
+16:::Fake Love:::BTS
+17:::Who&#039;s Gonna Save Us:::Hyde
+18:::Hanazakari Weekend:::4Luxury
+19:::Volt-age:::Suchmos
+20:::Snatchaway:::SKY-HI
+21:::What Is Love?:::TWICE
+22:::Change:::ONE OK ROCK
+23:::Echo:::Dean Fujioka
+24:::Your Love:::Jaejoong
+25:::Can You Hear Jewel`s Heartbeat?:::THE HOOPERS
+26:::Syncronicity:::Nogizaka 46
+27:::F.L.Y. BOYS F.L.Y. GIRLS:::GENERATIONS from EXILE TRIBE
+28:::Ame Agari No Step:::Atarashii Chizu
+29:::Non Tie-Up:::BiSH
+30:::Kono Michi Wo:::Kazumasa Oda
+31:::Bboom Bboom:::MOMOLAND
+32:::Shape Of You:::Ed Sheeran
+33:::Peace Sign:::Kenshi Yonezu
+34:::Yoru Yo Odore:::NEWS
+35:::Hinomaru:::RADWIMPS
+36:::Sayonara Elegy:::Masaki Suda
+37:::Cascade:::NEWS
+38:::Doraemon:::Gen Hoshino
+39:::Haiiro To Ao (+ Masaki Suda):::Kenshi Yonezu
+40:::DNA:::BTS
+41:::Hanabi:::Mr.Children
+42:::Chain:::NCT 127
+43:::Don&#039;t Leave Me:::BTS
+44:::Haikei.Shounen Yo:::Hump Back
+45:::Wake Me Up:::TWICE
+46:::Ryusei:::Aoi Eir
+47:::No Doubt:::Official HIGE DANdism
+48:::Seikan Hikou:::Ranka Lee (Megumi Nakajima)
+49:::THE New Era:::GOT7
+50:::Eine Kleine:::Kenshi Yonezu
+51:::Chikai:::Hikaru Utada
+52:::Koi To Ai:::Sandaime J Soul Brothers from EXILE TRIBE
+53:::Summer Love:::Mag!C Prince
+54:::TT:::TWICE
+55:::Wherever You Are:::ONE OK ROCK
+56:::Early SUMMER!!!:::Ayaka Sasaki
+57:::Megumi No Hito:::Kumi Koda
+58:::Silent Majority:::Keyakizaka46
+59:::Road:::Tohoshinki
+60:::Dream:::Syota Shimizu
+61:::Yababa:::Sonar Pocket
+62:::Chime:::YUKI
+63:::Todokanai Kara:::Ken Hirai
+64:::Drop:::U-KNOW
+65:::Glass Wo Ware!:::Keyakizaka46
+66:::NEWS Nippon (Represent NEWS Mix):::NEWS
+67:::Parerira Parerira:::Appare!Harajuku
+68:::Stay:::TAEYEON
+69:::No Tears Left To Cry:::Ariana Grande
+70:::Bloom:::Superfly
+71:::Anpanman:::BTS
+72:::Fiction:::sumika
+73:::Drive:::WANIMA
+74:::Candy Pop:::TWICE
+75:::Play A Love Song:::Hikaru Utada
+76:::Kitai Shiteinai Jibun:::Keyakizaka46
+77:::Nippon:::Ringo Sheena
+78:::Tokyo Victory:::Southern All Stars
+79:::Forever Young:::BLACKPINK
+80:::Likey:::TWICE
+81:::Zero:::Masaharu Fukuyama
+82:::Daiji Na Koto:::Quruli
+83:::Alone:::Shota Shimizu Feat. SALU
+84:::Heaven Only Knows:::CHEMISTRY
+85:::Ikiro:::NEWS
+86:::Better Now:::Post Malone
+87:::Solo:::Clean Bandit Featuring Demi Lovato
+88:::Luminous:::Shine Fine Movement
+89:::Live It Up:::Nicky Jam Featuring Will Smith  Era Istrefi
+90:::Mou Aenai Kedo.Heiki Desuka? (Our Days):::SOLIDEMO
+91:::Odd Future:::UVERworld
+92:::Our Page:::SHINee
+93:::Baam:::MOMOLAND
+94:::Yokubomono:::NMB48
+95:::My Boo:::Shota Shimizu
+96:::I Love You:::Kana Nishino
+97:::Front Memory:::Emiko Suzuki X Seiji Kameda
+98:::Mirai No Theme:::Tatsuro Yamashita
+99:::Kanade:::Sukima Switch
+100:::Water Blue New World:::Aqours

@@ -615,7 +615,7 @@ public class BillboardComExecutable {
 			if (line.toLowerCase().equals("Open Date".toLowerCase()) || num == 1) {
 				boolean continueOpenDateLoop = true;
 				while (continueOpenDateLoop) {
-					System.out.print("Year (1), Week (2), or Quit (0) ");
+					System.out.print("Year (1), Week (2), Month(3), or Quit (0) ");
 					line = systemScanner.nextLine().trim();
 					num = toInteger(line);
 					if (line.toLowerCase().equals("Year".toLowerCase()) || num == 1) {
@@ -650,6 +650,23 @@ public class BillboardComExecutable {
 								spreadsheet.addDate(date);
 								Collections.sort(spreadsheet.getDateList());
 							}
+						}catch(Exception e) {
+							System.out.println("An Exception Occured");
+						}
+					}else if (line.toLowerCase().equals("Month".toLowerCase()) || num == 3) {
+						System.out.print("Type the Select Month (YEAR-MO): ");
+						line = systemScanner.nextLine().trim();
+						try {
+							String[] numbers = line.split("-");
+							int year = Integer.parseInt(numbers[0]), month = Integer.parseInt(numbers[1]);
+							for(int day = 0; day<=31;day++) {
+								Date date = new Date(year, month, day);
+								if(Collections.binarySearch(spreadsheet.getDateList(), date)<0&&doesDateExist(date)) {
+									spreadsheet.addDate(date);
+									Collections.sort(spreadsheet.getDateList());
+								}
+							}
+							
 						}catch(Exception e) {
 							System.out.println("An Exception Occured");
 						}
@@ -1045,8 +1062,8 @@ public class BillboardComExecutable {
 			return folders[folders.length-1];
 		}
 		//System.out.println(path);
-		// Test  - vs –
-		String longDash = path.replace("-", "–");
+		// Test  - vs ï¿½
+		String longDash = path.replace("-", "ï¿½");
 		//System.out.println(longDash);
 		directory = new File(longDash);
 		if (directory.exists()) {

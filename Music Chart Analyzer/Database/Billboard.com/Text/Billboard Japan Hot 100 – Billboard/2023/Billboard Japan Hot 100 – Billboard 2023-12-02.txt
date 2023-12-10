@@ -1,0 +1,100 @@
+1:::Show:::Ado
+2:::Idol:::YOASOBI
+3:::Gifted:::NEWS
+4:::The Brave:::YOASOBI
+5:::Specialz:::King Gnu
+6:::Grand Prix:::Kep1er
+7:::Rendez-Vous:::Shy Taupe
+8:::Kaiju No Hanauta:::VAUNDY
+9:::Hana:::Fujii Kaze
+10:::Idol Nankaja Nakattara:::AKB48
+11:::Perfect Night:::LE SSERAFIM
+12:::Where Our Blue Is:::Tatsuya Kitani
+13:::Bansanka:::tuki.
+14:::Biri-Biri:::YOASOBI
+15:::Subtitle:::Official HIGE DANdism
+16:::Be a flower:::Ryokuoushoku Shakai
+17:::I&#039;m a Mess:::MY FIRST STORY
+18:::Heartris:::NiziU
+19:::Seven:::Jung Kook Featuring Latto
+20:::Que Sera Sera:::Mrs. GREEN APPLE
+21:::Hoshi no Furu Hi ni:::Aiko
+22:::LALALALA:::Stray Kids
+23:::The Peak:::SEKAI NO OWARI
+24:::Dance Hall:::Mrs. GREEN APPLE
+25:::Magic:::Mrs. GREEN APPLE
+26:::Christmas Song:::back number
+27:::Kura Kura:::Ado
+28:::Candle:::Marcy
+29:::Suiheisen:::back number
+30:::Dried Flower:::Yuuri
+31:::Standing Next To You:::Jung Kook
+32:::Dai Zero Kan:::10-FEET
+33:::Sweet Venom:::ENHYPEN
+34:::Soranji:::Mrs. GREEN APPLE
+35:::Ao To Natsu:::Mrs. GREEN APPLE
+36:::Takane No Hanako San:::back number
+37:::Utsukushii Hire:::Spitz
+38:::Mainstream:::BE:FIRST
+39:::More Than Words:::Hitsujibungaku
+40:::Cinderella Boy:::Saucy Dog
+41:::The Blessing:::YOASOBI
+42:::Shin Jidai (Uta from ONE PIECE FILM RED):::Ado
+43:::Billimillion:::Yuuri
+44:::W / X / Y:::Tani Yuuki
+45:::Yoru Ni Kakeru:::YOASOBI
+46:::Drama:::aespa
+47:::Betelgeuse:::Yuuri
+48:::Tenbyou No Uta:::Mrs. GREEN APPLE Feat. Sonoko Inoue
+49:::First Love:::Utada Hikaru
+50:::Overdose:::natori
+51:::Up To Me!:::Little Glee Monster
+52:::Mixed Nuts:::Official HIGE DANdism
+53:::Kick Back:::Kenshi Yonezu
+54:::Otonablue:::ATARASHII GAKKO!
+55:::Gunjou:::YOASOBI
+56:::3D:::Jung Kook &amp; Jack Harlow
+57:::Walking With You:::Novelbright
+58:::Unravel:::Ado
+59:::Hanataba:::back number
+60:::I Wish:::Naniwa Danshi
+61:::Marigold:::aimyon
+62:::I Love You:::back number
+63:::Heroine:::back number
+64:::Pretender:::Official HIGE DANdism
+65:::Dresscode:::LE SSERAFIM
+66:::Diamonds:::GENERATIONS from EXILE TRIBE
+67:::Inferno:::Mrs. GREEN APPLE
+68:::Odoriko:::VAUNDY
+69:::Happy End:::back number
+70:::Kizuna No Kiseki:::MAN WITH A MISSION x milet
+71:::Monster:::YOASOBI
+72:::Hakujitsu:::King Gnu
+73:::Nandemo Naiyo:::Macaroni Empitsu
+74:::Happy Birthday:::back number
+75:::Boku No Koto:::Mrs. GREEN APPLE
+76:::Watashi Ha Saikyo (Uta from ONE PIECE FILM RED):::Ado
+77:::Kanade:::Sukima Switch
+78:::Himawari:::Ado
+79:::Baddie:::IVE
+80:::Tsumugu:::Tota
+81:::Antenna:::Mrs. GREEN APPLE
+82:::Sakayume:::King Gnu
+83:::Ichizu:::King Gnu
+84:::115 Millon Kilometer Film:::Official HIGE DANdism
+85:::Blue Ambience:::Mrs.GREEN APPLE (Feat. asmi)
+86:::Glorious:::BE:FIRST
+87:::Aitoka Koitoka:::Novelbright
+88:::Anone:::aimyon
+89:::Lemon:::Kenshi Yonezu
+90:::Chameleon:::King Gnu
+91:::Tattoo:::Official HIGE DANdism
+92:::fake face dance music:::Masanori Otoda
+93:::I LOVE…:::Official HIGE DANdism
+94:::Night Dancer:::imase
+95:::Akari:::Soushi Sakiyama
+96:::Ditto:::NewJeans
+97:::Summer Time Cinderella:::Ryokuoushoku Shakai
+98:::Monopoly:::Nogizaka 46
+99:::Ranshin:::Hiromitsu Kitayama
+100:::Mela!:::Ryokuoushoku Shakai
